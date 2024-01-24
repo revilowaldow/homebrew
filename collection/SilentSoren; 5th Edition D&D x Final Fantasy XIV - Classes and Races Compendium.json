@@ -30,8 +30,8 @@
 			"AT:N": "Arcanist Tactics; Nymian Scholar"
 		},
 		"dateAdded": 1595181963,
-		"dateLastModified": 1697992755,
-		"_dateLastModifiedHash": "3a915b08b7"
+		"dateLastModified": 1705771787,
+		"_dateLastModifiedHash": "7effaa4d15"
 	},
 	"book": [
 		{
@@ -41,7 +41,10 @@
 			"author": "SilentSoren",
 			"group": "homebrew",
 			"published": "2020-11-26",
-			"coverUrl": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/FFXIV5E/Cover.png",
+			"cover": {
+				"type": "external",
+				"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/FFXIV5E/Cover.png"
+			},
 			"contents": [
 				{
 					"name": "Preface"
@@ -1085,7 +1088,7 @@
 						],
 						[
 							"Wir",
-							"Any member of the yoral family not in line for the throne"
+							"Any member of the royal family not in line for the throne"
 						],
 						[
 							"Van",
@@ -11446,7 +11449,7 @@
 					{
 						"a": [
 							{
-								"equipmentType": "focusSpellcasting"
+								"equipmentType": "focusSpellcastingArcane"
 							}
 						]
 					},
@@ -12695,7 +12698,7 @@
 					{
 						"_": [
 							{
-								"equipmentType": "focusSpellcasting"
+								"equipmentType": "focusSpellcastingArcane"
 							}
 						]
 					},
