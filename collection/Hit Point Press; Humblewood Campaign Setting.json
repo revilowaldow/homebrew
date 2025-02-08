@@ -6712,16 +6712,11 @@
 				"A"
 			],
 			"ac": [
-				{
-					"ac": 14,
-					"from": [
-						"{@item leather armor|phb}"
-					]
-				}
+				10
 			],
 			"hp": {
-				"formula": "10d8",
-				"average": 45
+				"formula": "1d8",
+				"average": 4
 			},
 			"speed": {
 				"walk": 30
@@ -8194,7 +8189,7 @@
 				{
 					"name": "Assassinate",
 					"entries": [
-						"During their first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit."
+						"During their first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a {@status surprised} creature is a critical hit."
 					]
 				},
 				{
@@ -14100,6 +14095,9 @@
 		{
 			"name": "Vulpin Captain",
 			"shortName": "captain",
+			"alias": [
+				"Vulpin Buccaneer"
+			],
 			"source": "HumblewoodCampaignSetting",
 			"page": 207,
 			"otherSources": [
@@ -14142,6 +14140,9 @@
 			"int": 14,
 			"wis": 14,
 			"cha": 12,
+			"save": {
+				"dex": "+4"
+			},
 			"skill": {
 				"acrobatics": "+4",
 				"perception": "+4"
