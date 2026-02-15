@@ -27457,10 +27457,6 @@
 			"savingThrow": [
 				"charisma"
 			],
-			"miscTags": [
-				"HL",
-				"THP"
-			],
 			"foundryImg": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GrimHollowPG24/Foundry/Spells/Curse%20of%20Foul%20Blight.webp"
 		},
 		{
@@ -28152,6 +28148,7 @@
 				]
 			},
 			"damageInflict": [
+				"piercing",
 				"bludgeoning"
 			],
 			"conditionInflict": [
