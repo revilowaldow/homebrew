@@ -31,9 +31,9 @@
 	},
 	"homepage": "https://github.com/TheGiddyLimit/homebrew#readme",
 	"devDependencies": {
-		"5etools-utils": "^0.15.0",
-		"commander": "^9.4.1",
+		"5etools-utils": "^0.15.1",
+		"commander": "^14.0.3",
 		"he": "^1.2.0",
-		"sanitize-html": "^2.12.1"
+		"sanitize-html": "^2.17.1"
 	}
 }
