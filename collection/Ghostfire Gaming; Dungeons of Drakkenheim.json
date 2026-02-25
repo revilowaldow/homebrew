@@ -24,6 +24,9 @@
 				"MM"
 			]
 		},
+		"references": [
+			"MonstersOfDrakkenheim"
+		],
 		"internalCopies": [
 			"background"
 		],

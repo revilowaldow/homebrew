@@ -22453,7 +22453,7 @@
 					"name": "Ruins of Wrathrock",
 					"page": 121,
 					"entries": [
-						"{@adventure Wrathrock}",
+						"{@adventure Wrathrock|Wrathrock}",
 						{
 							"type": "section",
 							"name": "Wrathrock Stat Blocks",

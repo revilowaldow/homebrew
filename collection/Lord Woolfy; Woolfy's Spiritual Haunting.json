@@ -2207,7 +2207,7 @@
 							"type": "entries",
 							"name": "Damage Resistance",
 							"entries": [
-								"You gain resistance to bludgeoning, piercing, and slashing damage while you are {@variantrule Bloodied|XPHB}."
+								"You gain resistance to bludgeoning, piercing, and slashing damage while you are {@status Bloodied|XPHB}."
 							]
 						},
 						{

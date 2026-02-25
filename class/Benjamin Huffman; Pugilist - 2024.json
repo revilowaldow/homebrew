@@ -1865,7 +1865,7 @@
 			"reqAttune": "by a pugilist",
 			"reqAttuneTags": [
 				{
-					"class": "pugilist"
+					"class": "pugilist|pugilist2024"
 				}
 			],
 			"type": "M|XPHB",
