@@ -123,7 +123,7 @@
 						}
 					},
 					"{@race Half-Orc}",
-					"—| EBERRON: {@coinflip Flip coin|Mark Of Finding|Marked|Unmarked} for {@race half-orc (mark of finding)|ERLW|Mark of Finding}"
+					"\u2014| EBERRON: {@coinflip Flip coin|Mark Of Finding|Marked|Unmarked} for {@race half-orc (mark of finding)|ERLW|Mark of Finding}"
 				],
 				[
 					{
@@ -167,7 +167,7 @@
 						}
 					},
 					"{@race Aarakocra|EEPC}",
-					"—"
+					"\u2014"
 				],
 				[
 					{
@@ -178,7 +178,7 @@
 						}
 					},
 					"{@race Firbolg|VGM}",
-					"—"
+					"\u2014"
 				],
 				[
 					{
@@ -189,7 +189,7 @@
 						}
 					},
 					"{@race Goliath|VGM}",
-					"—"
+					"\u2014"
 				],
 				[
 					{
@@ -200,7 +200,7 @@
 						}
 					},
 					"{@race Kalashtar|ERLW}",
-					"—"
+					"\u2014"
 				],
 				[
 					{
@@ -211,7 +211,7 @@
 						}
 					},
 					"{@race Kenku|VGM}",
-					"—"
+					"\u2014"
 				],
 				[
 					{
@@ -222,7 +222,7 @@
 						}
 					},
 					"{@race Lizardfolk|VGM}",
-					"—"
+					"\u2014"
 				],
 				[
 					{
@@ -255,7 +255,7 @@
 						}
 					},
 					"{@race Triton|VGM}",
-					"—"
+					"\u2014"
 				],
 				[
 					{
@@ -276,7 +276,7 @@
 						}
 					},
 					"{@race Tortle|TTP}",
-					"—"
+					"\u2014"
 				],
 				[
 					{
@@ -286,7 +286,7 @@
 						}
 					},
 					"{@race Satyr|MOT}",
-					"—"
+					"\u2014"
 				]
 			]
 		},

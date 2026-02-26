@@ -4756,13 +4756,13 @@
 						[
 							"11th",
 							"{@filter 1|bestiary|Challenge Rating=[&0;&1]|type=beast|miscellaneous=!swarm}",
-							"—",
+							"\u2014",
 							"{@creature Giant Eagle}"
 						],
 						[
 							"15th",
 							"{@filter 2|bestiary|Challenge Rating=[&0;&2]|type=beast|miscellaneous=!swarm}",
-							"—",
+							"\u2014",
 							"{@creature Cave Bear}"
 						]
 					]

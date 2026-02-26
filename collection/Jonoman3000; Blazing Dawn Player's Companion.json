@@ -1847,7 +1847,7 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"At 10th level, you learn to form the radiance and fire of your soul into a separate entity—a mighty steed. You can cast the {@spell phantom steed} spell at-will, without expending a spell slot. For you, this spell summons a semi-transparent steed made from light and fire. The steed sheds bright light in a 10-foot radius, and dim light 10 feet beyond that."
+				"At 10th level, you learn to form the radiance and fire of your soul into a separate entity\u2014a mighty steed. You can cast the {@spell phantom steed} spell at-will, without expending a spell slot. For you, this spell summons a semi-transparent steed made from light and fire. The steed sheds bright light in a 10-foot radius, and dim light 10 feet beyond that."
 			]
 		},
 		{
@@ -1891,7 +1891,7 @@
 			"level": 3,
 			"entries": [
 				"Some barbarians revere the celestial spirits that roam the lands and skies, and seek them out to be their guides and personal connection to the divine. A few barbarian clans have pre-established connections to celestial spirits, and for those clans taking this path is merely proving yourself worthy of that creature's power. For many barbarians, however, taking this path requires them to search far and wide for a celestial creature willing to let them become an avatar.",
-				"Most any celestial creature is capable of granting a barbarian this path. The most common among these are {@creature unicorn|MM|unicorns}, {@creature couatl|MM|couatls}, and low-ranking angels, who accept righteous barbarians as their avatars—extensions of their power that help them carry out their divine will. For some barbarians that take this path, their rage becomes reminiscent of divine possession—in rage, their personality can take on some of the attributes of their celestial guide's personality.",
+				"Most any celestial creature is capable of granting a barbarian this path. The most common among these are {@creature unicorn|MM|unicorns}, {@creature couatl|MM|couatls}, and low-ranking angels, who accept righteous barbarians as their avatars\u2014extensions of their power that help them carry out their divine will. For some barbarians that take this path, their rage becomes reminiscent of divine possession\u2014in rage, their personality can take on some of the attributes of their celestial guide's personality.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Avatar of Might|Barbarian||Celestial Avatar|BDPC|3|BDPC"
@@ -2062,7 +2062,7 @@
 			"subclassSource": "BDPC",
 			"level": 1,
 			"entries": [
-				"Gods of artistry—such as {@deity Deneir|Forgotten Realms|PHB}, {@deity Milil|Faerûnian|SCAG}, {@deity Branchala|Dragonlance|PHB}, and {@deity Apollo|Greek|PHB}—promote creativity and imagination above all. These gods value all of the arts, including music, painting, sculpting, and other skilled crafts, though they often specialize in one craft above the others. Clerics of a god of artistry are creative souls infused with the desire to create and share their emotions with others, whether through song, artwork, or other means.",
+				"Gods of artistry\u2014such as {@deity Deneir|Forgotten Realms|PHB}, {@deity Milil|Faerûnian|SCAG}, {@deity Branchala|Dragonlance|PHB}, and {@deity Apollo|Greek|PHB}\u2014promote creativity and imagination above all. These gods value all of the arts, including music, painting, sculpting, and other skilled crafts, though they often specialize in one craft above the others. Clerics of a god of artistry are creative souls infused with the desire to create and share their emotions with others, whether through song, artwork, or other means.",
 				{
 					"type": "statblock",
 					"tag": "table",
@@ -2574,7 +2574,7 @@
 			"subclassSource": "BDPC",
 			"level": 1,
 			"entries": [
-				"The gods of the hunt value skill above all else—whether it be skill as a tracker of cunning prey, a slayer of mighty beasts, or a marksman of unparalleled accuracy—it does not matter. Deities of this domain include {@deity Malar|Faerûnian|SCAG}, {@deity Balinor|Eberron|ERLW}, {@deity Sekolah|Nonhuman|PHB}, {@deity Artemis|Greek|PHB}, and {@deity Uller|Norse|PHB}. While rangers are often the most common servants of these deities, most of gods of the hunt employ clerics as well. The clerics of a hunting god often take a more active role in advancing their god's interests, compared to rangers. Followers of this domain might defend sacred groves and shrines to their god from the assault of evil monstrosities or hunt down the enemies of whatever deity they follow.",
+				"The gods of the hunt value skill above all else\u2014whether it be skill as a tracker of cunning prey, a slayer of mighty beasts, or a marksman of unparalleled accuracy\u2014it does not matter. Deities of this domain include {@deity Malar|Faerûnian|SCAG}, {@deity Balinor|Eberron|ERLW}, {@deity Sekolah|Nonhuman|PHB}, {@deity Artemis|Greek|PHB}, and {@deity Uller|Norse|PHB}. While rangers are often the most common servants of these deities, most of gods of the hunt employ clerics as well. The clerics of a hunting god often take a more active role in advancing their god's interests, compared to rangers. Followers of this domain might defend sacred groves and shrines to their god from the assault of evil monstrosities or hunt down the enemies of whatever deity they follow.",
 				{
 					"type": "statblock",
 					"tag": "table",
@@ -2727,7 +2727,7 @@
 			"subclassSource": "BDPC",
 			"level": 1,
 			"entries": [
-				"Gods of justice and law—including {@deity Tyr|Forgotten Realms|PHB}, {@deity Pholtus|Greyhawk|PHB}, {@deity Trithereon|Greyhawk|PHB}, {@deity Aureon|Eberron|ERLW}, {@deity Anubis|Egyptian|PHB}, and {@deity Forseti|Norse|PHB}—exemplify order and lawfulness, and the pursuit of just reparations and retributions. Some of these gods are ruthless in their pursuit of justice, and are quick to enact retribution when crimes are committed, while others are more forgiving and open to punishments other than death. Clerics of this domain often act as judges, lawyers, and investigators, and are well respected by their compatriots and hated by their opponents and detractors. They use their divine powers to find truth, root out evil, and bring justice to criminals.",
+				"Gods of justice and law\u2014including {@deity Tyr|Forgotten Realms|PHB}, {@deity Pholtus|Greyhawk|PHB}, {@deity Trithereon|Greyhawk|PHB}, {@deity Aureon|Eberron|ERLW}, {@deity Anubis|Egyptian|PHB}, and {@deity Forseti|Norse|PHB}\u2014exemplify order and lawfulness, and the pursuit of just reparations and retributions. Some of these gods are ruthless in their pursuit of justice, and are quick to enact retribution when crimes are committed, while others are more forgiving and open to punishments other than death. Clerics of this domain often act as judges, lawyers, and investigators, and are well respected by their compatriots and hated by their opponents and detractors. They use their divine powers to find truth, root out evil, and bring justice to criminals.",
 				{
 					"type": "statblock",
 					"tag": "table",
@@ -3196,9 +3196,9 @@
 			"level": 2,
 			"entries": [
 				"{@note This subclass does not appear in the {@book retired subclasses appendix|BDPC|4} and does not appear to have a clear update pathway to a current subclass. It has been retained in this file for any users of the subclass but is not currently in print.}",
-				"Druids of the Circle of Flames recognize fire's integral role in the natural world—they see it not only as a force of destruction, but as a force of rebirth, and ultimately of life. Throughout many environments, wildfires are merely a tool of nature that allow plants and animals to thrive. These druids seek to control and manipulate wildfires, allowing them to run their course without encroaching on civilization. Their order gathers in the burnt out remnants of forest fires, where they discuss their dealings and sow the first seeds of new growth within the charred soils.",
+				"Druids of the Circle of Flames recognize fire's integral role in the natural world\u2014they see it not only as a force of destruction, but as a force of rebirth, and ultimately of life. Throughout many environments, wildfires are merely a tool of nature that allow plants and animals to thrive. These druids seek to control and manipulate wildfires, allowing them to run their course without encroaching on civilization. Their order gathers in the burnt out remnants of forest fires, where they discuss their dealings and sow the first seeds of new growth within the charred soils.",
 				"These druids also devout much of their time to studying the most ancient forms of fire magic, created by creatures of primordial fire and those connected to the Elemental Plane of Fire. Through their study, they learn an array of fire-based magics, and gain the ability to infuse their wild shapes with the destructive power of fire.",
-				"Members of this circle become adventurers in their search knowledge, as they travel far and wide in search of ancient tomes and primordial beings, so that they might gain a deeper understanding of fire magic and the beings that created it. They also might seek to punish those that abuse and misuse fire—pyromaniacs are not welcome among their kin, and cannot be allowed to bring unbalance to the natural world.",
+				"Members of this circle become adventurers in their search knowledge, as they travel far and wide in search of ancient tomes and primordial beings, so that they might gain a deeper understanding of fire magic and the beings that created it. They also might seek to punish those that abuse and misuse fire\u2014pyromaniacs are not welcome among their kin, and cannot be allowed to bring unbalance to the natural world.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Cantrip|Druid||Flames (Retired)|BDPC|2|BDPC"
@@ -3334,7 +3334,7 @@
 			"level": 2,
 			"entries": [
 				"The Circle of the Sun is an ancient offshoot of the {@class Druid|PHB|Circle of the Shepherd|Shepherd|XGE} that looks beyond the material plane, and seeks to draw upon and defend the entire multiverse. Both of these circles commune with the spirits of nature, but the Circle of the Sun generally calls upon elemental and celestial spirits, rather than the spirits of beasts and fey.",
-				"These elemental and celestial spirits are drawn directly from the Elemental Plane of Fire and from the upper planes, respectively, and willingly ally themselves with these druids in order to achieve the common goal of ridding the multiverse of evil. Members of this circle tend to be more proactive than other druids—they aren't afraid to leave the wilderness they call home and go on vast journeys to achieve their goals.",
+				"These elemental and celestial spirits are drawn directly from the Elemental Plane of Fire and from the upper planes, respectively, and willingly ally themselves with these druids in order to achieve the common goal of ridding the multiverse of evil. Members of this circle tend to be more proactive than other druids\u2014they aren't afraid to leave the wilderness they call home and go on vast journeys to achieve their goals.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Circle Spells|Druid||Sun|BDPC|2|BDPC"
@@ -3442,7 +3442,7 @@
 			"subclassSource": "BDPC",
 			"level": 3,
 			"entries": [
-				"An archetypical Devout bears a distinct resemblance to paladins and clerics, particularly in the way they present themselves. While they lack the divine magic offered by these classes, their divine fervor is far from lacking. A Devout fights for their deity, commonly acting as crusaders or, less commonly, inquisitors of the faith. These fighters come from all walks of life, united by their zealotry and unbreakable faith. In their training, they become capable combatants, devoted friends, and learned scholars of their faith. A Devout's way of life is arduous—they are always fighting for something, whether it be for their god, their companions, or simply for a moral cause.",
+				"An archetypical Devout bears a distinct resemblance to paladins and clerics, particularly in the way they present themselves. While they lack the divine magic offered by these classes, their divine fervor is far from lacking. A Devout fights for their deity, commonly acting as crusaders or, less commonly, inquisitors of the faith. These fighters come from all walks of life, united by their zealotry and unbreakable faith. In their training, they become capable combatants, devoted friends, and learned scholars of their faith. A Devout's way of life is arduous\u2014they are always fighting for something, whether it be for their god, their companions, or simply for a moral cause.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Proficiency|Fighter||Devout|BDPC|3|BDPC"
@@ -3522,7 +3522,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"The creatures of evil and good—aberrations, celestials, elementals, fey, fiends, and undead—are intricately connected with the dealings of the gods. By 7th level, you have learned much about these creatures, granting you advantage on any Charisma checks you make while interacting with them, and allowing you to add your proficiency bonus to any Wisdom, Charisma, or Intelligence save imposed by one of these creatures if you don't add your proficiency to that save already."
+				"The creatures of evil and good\u2014aberrations, celestials, elementals, fey, fiends, and undead\u2014are intricately connected with the dealings of the gods. By 7th level, you have learned much about these creatures, granting you advantage on any Charisma checks you make while interacting with them, and allowing you to add your proficiency bonus to any Wisdom, Charisma, or Intelligence save imposed by one of these creatures if you don't add your proficiency to that save already."
 			]
 		},
 		{
@@ -4367,7 +4367,7 @@
 			"subclassSource": "BDPC",
 			"level": 3,
 			"entries": [
-				"The Oath of Fervor calls to paladins that are driven by fiery ideals from which they would never back down. Sometimes called red knights, phoenix knights, or simply zealots, these paladins hold no one set of goals—their oath dictates the way that they strive towards their goals, rather prescribing what those goals should be. As such, the paladins of this oath may be of any alignment, and could hold many opposing ideals. Their consistency is in their impulsiveness, which hurts them as often as it helps.",
+				"The Oath of Fervor calls to paladins that are driven by fiery ideals from which they would never back down. Sometimes called red knights, phoenix knights, or simply zealots, these paladins hold no one set of goals\u2014their oath dictates the way that they strive towards their goals, rather prescribing what those goals should be. As such, the paladins of this oath may be of any alignment, and could hold many opposing ideals. Their consistency is in their impulsiveness, which hurts them as often as it helps.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenets of Fervor|Paladin||Fervor|BDPC|3"
@@ -4562,7 +4562,7 @@
 			"level": 3,
 			"entries": [
 				"{@note The {@class Paladin|PHB|Oath of Radiance|Radiance (Retired)|BDPC} is the previous version of the {@class Paladin|PHB|Oath of Truth|Truth|BDPC}. Like the {@class Paladin|PHB|Oath of Cinders|Cinders (Retired)|BDPC}, this subclass was renamed and reflavored in order to make it feel more like a real paladin oath vs a bundle of light-themed mechanics.}",
-				"The Oath of Radiance is almost as old as the sun that it follows, and has remained a steady force of good over the ages. Often called sun warriors or shining knights, paladins that take this oath seek to bring light and knowledge to even the darkest areas of the world. Some of them adorn their armor with dazzling inlaid glass and brilliantly bright metals, so that they can reflect the sun's glory and become physical beacons on the battlefield. They also might wear images of the sun or stars—the holy lights that bring life and knowledge to this world, and reveal all that is hidden by shadows and darkness. Like a star in the night, a paladin of the Oath of Radiance seeks to be a light of truth in the dark.",
+				"The Oath of Radiance is almost as old as the sun that it follows, and has remained a steady force of good over the ages. Often called sun warriors or shining knights, paladins that take this oath seek to bring light and knowledge to even the darkest areas of the world. Some of them adorn their armor with dazzling inlaid glass and brilliantly bright metals, so that they can reflect the sun's glory and become physical beacons on the battlefield. They also might wear images of the sun or stars\u2014the holy lights that bring life and knowledge to this world, and reveal all that is hidden by shadows and darkness. Like a star in the night, a paladin of the Oath of Radiance seeks to be a light of truth in the dark.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenents of Radiance|Paladin||Radiance (Retired)|BDPC|3"
@@ -4757,7 +4757,7 @@
 			"subclassSource": "BDPC",
 			"level": 3,
 			"entries": [
-				"The Oath of Truth is sworn to the ideals of knowledge, integrity, and sincerity. Sometimes called seekers, paladins who swear this oath are often scholars that devote themselves to the pursuit of knowledge. These paladins are not content with merely knowing the truth, however—they also devote themselves to upholding it. They refuse to utter lies or deceptions, and make it their duty to correct any falsehoods they come across.",
+				"The Oath of Truth is sworn to the ideals of knowledge, integrity, and sincerity. Sometimes called seekers, paladins who swear this oath are often scholars that devote themselves to the pursuit of knowledge. These paladins are not content with merely knowing the truth, however\u2014they also devote themselves to upholding it. They refuse to utter lies or deceptions, and make it their duty to correct any falsehoods they come across.",
 				"Paladins that follow the Oath of Truth often adorn their armor and clothing with angelic images, including wings and halos, as they idealize the angelic ability to perfectly tell truth from lie. Images of eyes are also common, whether incorporated into their coat of arms or even tattooed upon their body.",
 				{
 					"type": "refSubclassFeature",
@@ -5089,8 +5089,8 @@
 			"subclassSource": "BDPC",
 			"level": 3,
 			"entries": [
-				"As a Divine Hand, you focus your training on the arts of death and execution. However, unlike an assassin you do not employ yourself in the service of mortals. You have a higher calling, and have devoted yourself into the service of a deity. With this deity you have formed a personal connection—they speak with you directly, ordering you to dispose of their enemies and giving you other such tasks. To assist you in your endeavors, your deity has granted you divine powers. These powers can help you slay any foe, but are especially effective against the enemies of your deity.",
-				"Divine Hands are often members of a clergy, working directly for the church of their deity. But others work outside of any organization, and perform their duties independently—working only for themselves and their deity.",
+				"As a Divine Hand, you focus your training on the arts of death and execution. However, unlike an assassin you do not employ yourself in the service of mortals. You have a higher calling, and have devoted yourself into the service of a deity. With this deity you have formed a personal connection\u2014they speak with you directly, ordering you to dispose of their enemies and giving you other such tasks. To assist you in your endeavors, your deity has granted you divine powers. These powers can help you slay any foe, but are especially effective against the enemies of your deity.",
+				"Divine Hands are often members of a clergy, working directly for the church of their deity. But others work outside of any organization, and perform their duties independently\u2014working only for themselves and their deity.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Right Hand of God|Rogue||Divine Hand|BDPC|3|BDPC"
@@ -5333,7 +5333,7 @@
 			],
 			"header": 2,
 			"entries": [
-				"At 14th level, you become one with your inner flame. You gain resistance to fire damage, and your Cinder Mage feature is improved. When you activate that feature, you can either create two clouds at once—one centered on you and one centered on the spell's target—or create a single, 15-foot radius cloud centered on you. Additionally, the distance you can teleport within these clouds is increased to 30 feet. This teleportation also no longer restricts your spellcasting, and can be used when your speed is 0."
+				"At 14th level, you become one with your inner flame. You gain resistance to fire damage, and your Cinder Mage feature is improved. When you activate that feature, you can either create two clouds at once\u2014one centered on you and one centered on the spell's target\u2014or create a single, 15-foot radius cloud centered on you. Additionally, the distance you can teleport within these clouds is increased to 30 feet. This teleportation also no longer restricts your spellcasting, and can be used when your speed is 0."
 			]
 		},
 		{
@@ -5361,7 +5361,7 @@
 			"subclassSource": "BDPC",
 			"level": 1,
 			"entries": [
-				"Your innate magic comes from your connection to an ancient hero—an ancestor of yours that defeated mighty foes and reached the peak of physical ability. In the years beyond their death, your ancestor's deeds have been immortalized by history, and their bloodline has been blessed by the gods. Through your blessed blood, you can channel the abilities of your ancestor, mimicking their unmatched strength and prowess.",
+				"Your innate magic comes from your connection to an ancient hero\u2014an ancestor of yours that defeated mighty foes and reached the peak of physical ability. In the years beyond their death, your ancestor's deeds have been immortalized by history, and their bloodline has been blessed by the gods. Through your blessed blood, you can channel the abilities of your ancestor, mimicking their unmatched strength and prowess.",
 				"Most of these bloodlines are well-established, and deeply connected to royal or noble blood. Some of these bloodlines have been obscured by time, however, and many sorcerers of this origin have no knowledge of their history. Not all members of a heroic bloodline awaken this magic, so it can remain hidden for generations and slowly forgotten before suddenly re-emerging.",
 				{
 					"type": "refSubclassFeature",
@@ -5671,7 +5671,7 @@
 			"subclassSource": "BDPC",
 			"level": 1,
 			"entries": [
-				"Your patron is a mighty phoenix, a creature of the elemental plane of fire. While ordinary phoenixes do not have the intelligence to make such a pact, particularly powerful ones, known as firebirds, can bestow great elemental power to a warlock. The aims of a firebird are far from complex—they seek destruction, and use their warlocks to further that goal. They pay no great heed to how a warlock uses the powers they grant them, however, instead tending to assume that those fiery powers would naturally be used to incite chaos and destruction. While warlocks of this pact are often driven to burn and destroy as their patrons do, some manage to use their abilities for good, utilizing their magic in their fight against evil.",
+				"Your patron is a mighty phoenix, a creature of the elemental plane of fire. While ordinary phoenixes do not have the intelligence to make such a pact, particularly powerful ones, known as firebirds, can bestow great elemental power to a warlock. The aims of a firebird are far from complex\u2014they seek destruction, and use their warlocks to further that goal. They pay no great heed to how a warlock uses the powers they grant them, however, instead tending to assume that those fiery powers would naturally be used to incite chaos and destruction. While warlocks of this pact are often driven to burn and destroy as their patrons do, some manage to use their abilities for good, utilizing their magic in their fight against evil.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Expanded Spells|Warlock||Firebird|BDPC|1|BDPC"
@@ -5797,7 +5797,7 @@
 			"level": 1,
 			"entries": [
 				"{@note The {@class Warlock|PHB|Firebird V1|Firebird (V1)|BDPC} was reworked to lessen its reliance on fire damage, just like the {@class Fighter|PHB|Ember Knight|Ember Knight|BDPC} rework.}",
-				"Your patron is a mighty phoenix, a creature of the elemental plane of fire. While ordinary phoenixes do not have the intelligence to make such a pact, particularly powerful ones, known as firebirds, can bestow great elemental power to a warlock. The aims of a firebird are far from complex—they seek destruction, and use their warlocks to further that goal. They pay no great heed to how a warlock uses the powers they grant them, however, instead tending to assume that those fiery powers would naturally be used to incite chaos and destruction. While warlocks of this pact are often driven to burn and destroy as their patrons do, some manage to use their abilities for good, utilizing their magic in their fight against evil.",
+				"Your patron is a mighty phoenix, a creature of the elemental plane of fire. While ordinary phoenixes do not have the intelligence to make such a pact, particularly powerful ones, known as firebirds, can bestow great elemental power to a warlock. The aims of a firebird are far from complex\u2014they seek destruction, and use their warlocks to further that goal. They pay no great heed to how a warlock uses the powers they grant them, however, instead tending to assume that those fiery powers would naturally be used to incite chaos and destruction. While warlocks of this pact are often driven to burn and destroy as their patrons do, some manage to use their abilities for good, utilizing their magic in their fight against evil.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Expanded Spells|Warlock||Firebird (V1)|BDPC|1|BDPC"
@@ -6017,7 +6017,7 @@
 			"subclassSource": "BDPC",
 			"level": 2,
 			"entries": [
-				"As a heliomancer, you focus your studies on the magical energy of the sun, and use it to create powerful bursts of radiance and dazzling displays of light. Though much of your magic is normally considered divine, you have managed to emulate these same spells and effects through rigorous study and careful experimentation. Some heliomancers learn their magic with the company of clerics, and become respected members of a temple or shrine. Others learn their magic in academic institutions—though most institutions only focus on the regular schools of magic, some teach rarer traditions such as this one.",
+				"As a heliomancer, you focus your studies on the magical energy of the sun, and use it to create powerful bursts of radiance and dazzling displays of light. Though much of your magic is normally considered divine, you have managed to emulate these same spells and effects through rigorous study and careful experimentation. Some heliomancers learn their magic with the company of clerics, and become respected members of a temple or shrine. Others learn their magic in academic institutions\u2014though most institutions only focus on the regular schools of magic, some teach rarer traditions such as this one.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Heliomancy Savant|Wizard||Heliomancy|BDPC|2|BDPC"
@@ -7230,7 +7230,7 @@
 					"name": "Size",
 					"page": 4,
 					"entries": [
-						"Astrans average about 7–8 feet tall, though they have exceptionally wiry builds, and often weigh only about 150 pounds. Your size is Medium."
+						"Astrans average about 7\u20138 feet tall, though they have exceptionally wiry builds, and often weigh only about 150 pounds. Your size is Medium."
 					]
 				},
 				{
@@ -7920,8 +7920,8 @@
 							"name": "Life from Fallen Stars",
 							"page": 3,
 							"entries": [
-								"Astrans are not born like other races. The rare, tiny embryos that eventually grow up into astrans can be found encased within meteorites. The origins of these meteorites is unknown—some believe that they are created by some celestial deity that casts down shooting stars from the heavens. Others believe that these meteorites are the destroyed remains of an ancient planet, still harboring sparks of life within its countless fragments.",
-								"After an astran meteorite lands, it behaves much like an egg. The astran embryo grows inside the meteorite, until it emerges a few weeks later as a tiny creature, only 1–2 feet tall. Astrans are capable of fending for themselves as soon as they emerge. They can protect themselves with their innate magical capabilities, and they know the {@language astran|BDPC|astran language} and basic {@skill survival} skills from their inception. They grow quickly, reaching their full size in approximately 1–2 years.",
+								"Astrans are not born like other races. The rare, tiny embryos that eventually grow up into astrans can be found encased within meteorites. The origins of these meteorites is unknown\u2014some believe that they are created by some celestial deity that casts down shooting stars from the heavens. Others believe that these meteorites are the destroyed remains of an ancient planet, still harboring sparks of life within its countless fragments.",
+								"After an astran meteorite lands, it behaves much like an egg. The astran embryo grows inside the meteorite, until it emerges a few weeks later as a tiny creature, only 1\u20132 feet tall. Astrans are capable of fending for themselves as soon as they emerge. They can protect themselves with their innate magical capabilities, and they know the {@language astran|BDPC|astran language} and basic {@skill survival} skills from their inception. They grow quickly, reaching their full size in approximately 1\u20132 years.",
 								"Even if young astrans are better equipped to survive alone than most humanoid young, the world is still an exceptionally dangerous place for a young astran. Some older astrans watch the night sky for shooting stars, and trek great distances to find where meteorites have landed. Through these treks they seek to find a meteorite that holds an astran embryo, so that the young astran might have a better chance of surviving to adulthood, and so that they might have a companion to ease their loneliness."
 							]
 						},
@@ -7930,7 +7930,7 @@
 							"name": "Alone Through the Ages",
 							"page": 3,
 							"entries": [
-								"Astrans often live for close to a {@homebrew millennium|millenia}, and during their long lives little changes about them from a physical standpoint. The changes made by aging are subtle—typically their skin changes color, becoming darker and losing some of its luster, and the light of their eyes becomes slightly dimmer. These changes happen so slowly that they are nearly unnoticeable, however, and only similarly long lived races, like elves, would have a chance of noticing an astran's aging.",
+								"Astrans often live for close to a {@homebrew millennium|millenia}, and during their long lives little changes about them from a physical standpoint. The changes made by aging are subtle\u2014typically their skin changes color, becoming darker and losing some of its luster, and the light of their eyes becomes slightly dimmer. These changes happen so slowly that they are nearly unnoticeable, however, and only similarly long lived races, like elves, would have a chance of noticing an astran's aging.",
 								"The vast majority of astrans spend their long lives carefully avoiding long-lasting friendships, fearing the sadness that comes with watching their friends grow old as they, in turn, remain unchanged by the years. This fear often fades over time, and they might make friends with other long-lived races, particularly elves, once they have a few centuries behind them. While they tend to make their homes in places untraveled by other folk, they don't actively avoid other races when those folk happen upon their humble abodes, and in fact they often welcome their visitors inside and are eager to share their wisdom with individuals that would appreciate it.",
 								"One of the few relationships that an astran is willing to take on with another race is that of a mentor-student relationship, where the astran imparts its knowledge and skill upon a worthy student. Even these associations are often short-lived, however, as they seek to not become too attached to their pupils."
 							]
@@ -8167,7 +8167,7 @@
 					"entries": {
 						"mode": "prependArr",
 						"items": [
-							"Ursinal guardrins are hulking men and women with bearlike attributes. They stand approximately 8 feet tall and are covered with golden, red, or brown fur. Their faces have pronounced muzzles and high ear tufts—and, usually, a kindly expression. Despite their intimidating looks, they are scholarly creatures that often seek to avoid physical confrontations, though they are capable combatants when push comes to shove.",
+							"Ursinal guardrins are hulking men and women with bearlike attributes. They stand approximately 8 feet tall and are covered with golden, red, or brown fur. Their faces have pronounced muzzles and high ear tufts\u2014and, usually, a kindly expression. Despite their intimidating looks, they are scholarly creatures that often seek to avoid physical confrontations, though they are capable combatants when push comes to shove.",
 							{
 								"type": "hr"
 							}
@@ -8185,7 +8185,7 @@
 					"name": "Volcanus",
 					"page": 7,
 					"entries": [
-						"Volcani are a rare, ancient people, first born of primordial fire in an age long past. They live in places seldom traveled to by other races—volcanic mountain ranges and island chains, too hot for most other creatures to stand. But within these lands volcanus society thrives, as they build impressive structures and fortresses from igneous rock, with streams of lava flowing between and around their settlements like rivers. Volcani are highly driven, and many can accomplish great feats during their short lives that many of the longer lived races wouldn't even consider.",
+						"Volcani are a rare, ancient people, first born of primordial fire in an age long past. They live in places seldom traveled to by other races\u2014volcanic mountain ranges and island chains, too hot for most other creatures to stand. But within these lands volcanus society thrives, as they build impressive structures and fortresses from igneous rock, with streams of lava flowing between and around their settlements like rivers. Volcani are highly driven, and many can accomplish great feats during their short lives that many of the longer lived races wouldn't even consider.",
 						{
 							"type": "entries",
 							"name": "Molded from Flame",
@@ -8209,8 +8209,8 @@
 							"name": "Vanishing Embers",
 							"page": 7,
 							"entries": [
-								"A volcanus' soul is like a flickering flame—bright and full of life, up until the moment it's snuffed out. Moreso than any other race, a volcanus' lifespan is uncertain. After reaching adulthood, a volcanus shows no more signs of aging, and can die a natural death at any point thereafter. Some might die as early as 20 years old, while others might live to the age of 80. The volcani believe that their lifespan is tied to their innate purpose—when they complete that purpose, death is surely just around the corner.",
-								"But for a volcanus, death isn't truly the end. Death merely signals the beginning of the next generation. When a volcanus dies, their body burns to ash—colored a deep black for males and a vibrant red for females. It is from this ash that a volcanus' children are born. By taking some of the ash of an adult male volcanus, combining it with some of the ash of an adult female volcanus, and using fresh lava to set that mixture ablaze, a new volcanus is born after the flames subside. A pair of two volcani has enough ash to sire four children, but most couples only sire two or three. The memories of a volcanus are in part passed down to their children, who often see the memories of their parents in vivid dreams. These memories can also give a volcanus a natural aptitude in the skills their parents knew.",
+								"A volcanus' soul is like a flickering flame\u2014bright and full of life, up until the moment it's snuffed out. Moreso than any other race, a volcanus' lifespan is uncertain. After reaching adulthood, a volcanus shows no more signs of aging, and can die a natural death at any point thereafter. Some might die as early as 20 years old, while others might live to the age of 80. The volcani believe that their lifespan is tied to their innate purpose\u2014when they complete that purpose, death is surely just around the corner.",
+								"But for a volcanus, death isn't truly the end. Death merely signals the beginning of the next generation. When a volcanus dies, their body burns to ash\u2014colored a deep black for males and a vibrant red for females. It is from this ash that a volcanus' children are born. By taking some of the ash of an adult male volcanus, combining it with some of the ash of an adult female volcanus, and using fresh lava to set that mixture ablaze, a new volcanus is born after the flames subside. A pair of two volcani has enough ash to sire four children, but most couples only sire two or three. The memories of a volcanus are in part passed down to their children, who often see the memories of their parents in vivid dreams. These memories can also give a volcanus a natural aptitude in the skills their parents knew.",
 								"The unique reproductive system of volcani, combined with their uncertain lifespans, makes it common for a volcanus to plan for their death early in life. It is almost considered a coming of age ceremony for a young adult volcanus to write their first will. A volcanus' will generally specifies what is to be done with their material possessions, like the wills of other races, but more importantly it specifies what should be done with their ashes. Married volcani will typically create joint wills, stating potential names for their future children, and how many children they wish to have. Unmarried volcani are expected to donate their ashes their community, so that they might be used for adoption purposes. Another oddity of volcanus culture is the creation of a personal urn, which a volcanus either commissions or forges themself. These urns are heavily decorated with symbols telling the life story the volcanus they were made for, and are used to hold and transport a volcanus' ashes upon their death."
 							]
 						},
@@ -8227,7 +8227,7 @@
 							"name": "Volcanus Names",
 							"page": 8,
 							"entries": [
-								"As volcani couples are forced to choose their child's names before they can know their gender, volcani names are typically gender-neutral. They also lack true family names—a volcanus' last name is traditionally their father's first name, followed by their mother's first name, separated by a dash.",
+								"As volcani couples are forced to choose their child's names before they can know their gender, volcani names are typically gender-neutral. They also lack true family names\u2014a volcanus' last name is traditionally their father's first name, followed by their mother's first name, separated by a dash.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -11591,7 +11591,7 @@
 				}
 			],
 			"entries": [
-				"During the casting time, you and up to eight willing creatures who link hands in a circle take part in an oath to not harm the other oath-takers. For the duration, a creature affected by this spell is unable to directly harm or damage any other creature affected by this casting of the spell. Such a creature is unable to even attempt to perform such an act—any harmful action it attempts against another oath-taker is stopped before it can be completed, causing the creature to waste its action. This spell does not protect against more indirect forms of harm, such as lying or leading others into a trap.",
+				"During the casting time, you and up to eight willing creatures who link hands in a circle take part in an oath to not harm the other oath-takers. For the duration, a creature affected by this spell is unable to directly harm or damage any other creature affected by this casting of the spell. Such a creature is unable to even attempt to perform such an act\u2014any harmful action it attempts against another oath-taker is stopped before it can be completed, causing the creature to waste its action. This spell does not protect against more indirect forms of harm, such as lying or leading others into a trap.",
 				"If this effect ends early on a creature, such as through the {@spell dispel magic} spell, all the other oath-takers immediately know that the effect has ended on that creature."
 			],
 			"entriesHigherLevel": [
@@ -12150,7 +12150,7 @@
 				}
 			],
 			"entries": [
-				"Choose a point in time no more than 30 days ago. You cause the terrain, structures, and any inanimate nonmagical objects within a 300-foot cube in range to return to the condition they were in at the specified point in time. The renewal occurs using only the resources contained within the area—if objects were removed from the area, they remain missing when the spell completes.",
+				"Choose a point in time no more than 30 days ago. You cause the terrain, structures, and any inanimate nonmagical objects within a 300-foot cube in range to return to the condition they were in at the specified point in time. The renewal occurs using only the resources contained within the area\u2014if objects were removed from the area, they remain missing when the spell completes.",
 				"Similarly, objects that were added to the area remain in it.",
 				"For example, this spell can be used to rebuild a collapsed or burned down building, restore writing that was scrubbed away from a wall, and/or cause a fallen tree to stand up again. This spell cannot restore life to dead creatures, though it can restore life to non-sentient plant life (like nonmagical trees).",
 				"The renewal occurs slowly enough that it cannot trap or damage creatures within the area. Creatures that would be in the way of the renewal are instead safely pushed out of it."
@@ -12882,7 +12882,7 @@
 			"entries": [
 				"You conjure a 10-foot-radius black sphere at an unoccupied location that you can see within range. The sphere sheds bright light in a 250-foot radius and dim light for an additional 250 feet, and it lasts for the duration.",
 				"The sphere is an object that has AC 20, 500 hit points, and immunity to bludgeoning, piercing, and slashing damage from nonmagical attacks. If it drops to 0 hit points, the spell ends.",
-				"When you cast the spell, you decide which creatures will be affected by it. There are no limitations on this decision—it can be as specific or as broad as you'd like. You might have the spell affect creatures that are of a certain alignment or creature type, that follow a certain deity or leader, or that have done a specific crime or deed. These are just examples—there are many more options that you could choose.",
+				"When you cast the spell, you decide which creatures will be affected by it. There are no limitations on this decision\u2014it can be as specific or as broad as you'd like. You might have the spell affect creatures that are of a certain alignment or creature type, that follow a certain deity or leader, or that have done a specific crime or deed. These are just examples\u2014there are many more options that you could choose.",
 				"An affected creature that starts its turn within the bright light or enters it for the first time on a turn must make a Constitution saving throw. A creature takes {@damage 8d8} radiant damage on a failed save, or half as much damage on a successful one.",
 				"On each of your turns after you cast this spell, you can use your action to move the sphere up to 120 feet in a straight line in any direction. If you ram the sphere into a creature, that creature must make a Constitution saving throw, and the sphere stops moving this turn. The creature takes {@damage 5d8} bludgeoning damage plus {@damage 5d8} radiant damage on a failed save, or half as much damage on a successful one.",
 				"Whenever an affected creature dies while within the area of bright light, its essence is absorbed into the sphere. While the spell lasts, the creature can be restored to life only through the casting of {@spell wish}.",
@@ -14888,8 +14888,8 @@
 									"name": "Life from Fallen Stars",
 									"page": 3,
 									"entries": [
-										"Astrans are not born like other races. The rare, tiny embryos that eventually grow up into astrans can be found encased within meteorites. The origins of these meteorites is unknown—some believe that they are created by some celestial deity that casts down shooting stars from the heavens. Others believe that these meteorites are the destroyed remains of an ancient planet, still harboring sparks of life within its countless fragments.",
-										"After an astran meteorite lands, it behaves much like an egg. The astran embryo grows inside the meteorite, until it emerges a few weeks later as a tiny creature, only 1–2 feet tall. Astrans are capable of fending for themselves as soon as they emerge. They can protect themselves with their innate magical capabilities, and they know the {@language astran|BDPC|astran language} and basic {@skill survival} skills from their inception. They grow quickly, reaching their full size in approximately 1–2 years.",
+										"Astrans are not born like other races. The rare, tiny embryos that eventually grow up into astrans can be found encased within meteorites. The origins of these meteorites is unknown\u2014some believe that they are created by some celestial deity that casts down shooting stars from the heavens. Others believe that these meteorites are the destroyed remains of an ancient planet, still harboring sparks of life within its countless fragments.",
+										"After an astran meteorite lands, it behaves much like an egg. The astran embryo grows inside the meteorite, until it emerges a few weeks later as a tiny creature, only 1\u20132 feet tall. Astrans are capable of fending for themselves as soon as they emerge. They can protect themselves with their innate magical capabilities, and they know the {@language astran|BDPC|astran language} and basic {@skill survival} skills from their inception. They grow quickly, reaching their full size in approximately 1\u20132 years.",
 										"Even if young astrans are better equipped to survive alone than most humanoid young, the world is still an exceptionally dangerous place for a young astran. Some older astrans watch the night sky for shooting stars, and trek great distances to find where meteorites have landed. Through these treks they seek to find a meteorite that holds an astran embryo, so that the young astran might have a better chance of surviving to adulthood, and so that they might have a companion to ease their loneliness."
 									],
 									"id": "007"
@@ -14899,7 +14899,7 @@
 									"name": "Alone Through the Ages",
 									"page": 3,
 									"entries": [
-										"Astrans often live for close to a {@homebrew millennium|millenia}, and during their long lives little changes about them from a physical standpoint. The changes made by aging are subtle—typically their skin changes color, becoming darker and losing some of its luster, and the light of their eyes becomes slightly dimmer. These changes happen so slowly that they are nearly unnoticeable, however, and only similarly long lived races, like elves, would have a chance of noticing an astran's aging.",
+										"Astrans often live for close to a {@homebrew millennium|millenia}, and during their long lives little changes about them from a physical standpoint. The changes made by aging are subtle\u2014typically their skin changes color, becoming darker and losing some of its luster, and the light of their eyes becomes slightly dimmer. These changes happen so slowly that they are nearly unnoticeable, however, and only similarly long lived races, like elves, would have a chance of noticing an astran's aging.",
 										"The vast majority of astrans spend their long lives carefully avoiding long-lasting friendships, fearing the sadness that comes with watching their friends grow old as they, in turn, remain unchanged by the years. This fear often fades over time, and they might make friends with other long-lived races, particularly elves, once they have a few centuries behind them. While they tend to make their homes in places untraveled by other folk, they don't actively avoid other races when those folk happen upon their humble abodes, and in fact they often welcome their visitors inside and are eager to share their wisdom with individuals that would appreciate it.",
 										"One of the few relationships that an astran is willing to take on with another race is that of a mentor-student relationship, where the astran imparts its knowledge and skill upon a worthy student. Even these associations are often short-lived, however, as they seek to not become too attached to their pupils."
 									],
@@ -15120,7 +15120,7 @@
 									"width": 1500,
 									"height": 1456
 								},
-								"Volcani are a rare, ancient people, first born of primordial fire in an age long past. They live in places seldom traveled to by other races—volcanic mountain ranges and island chains, too hot for most other creatures to stand. But within these lands volcanus society thrives, as they build impressive structures and fortresses from igneous rock, with streams of lava flowing between and around their settlements like rivers. Volcani are highly driven, and many can accomplish great feats during their short lives that many of the longer lived races wouldn't even consider.",
+								"Volcani are a rare, ancient people, first born of primordial fire in an age long past. They live in places seldom traveled to by other races\u2014volcanic mountain ranges and island chains, too hot for most other creatures to stand. But within these lands volcanus society thrives, as they build impressive structures and fortresses from igneous rock, with streams of lava flowing between and around their settlements like rivers. Volcani are highly driven, and many can accomplish great feats during their short lives that many of the longer lived races wouldn't even consider.",
 								{
 									"type": "entries",
 									"name": "Molded from Flame",
@@ -15146,8 +15146,8 @@
 									"name": "Vanishing Embers",
 									"page": 7,
 									"entries": [
-										"A volcanus' soul is like a flickering flame—bright and full of life, up until the moment it's snuffed out. Moreso than any other race, a volcanus' lifespan is uncertain. After reaching adulthood, a volcanus shows no more signs of aging, and can die a natural death at any point thereafter. Some might die as early as 20 years old, while others might live to the age of 80. The volcani believe that their lifespan is tied to their innate purpose—when they complete that purpose, death is surely just around the corner.",
-										"But for a volcanus, death isn't truly the end. Death merely signals the beginning of the next generation. When a volcanus dies, their body burns to ash—colored a deep black for males and a vibrant red for females. It is from this ash that a volcanus' children are born. By taking some of the ash of an adult male volcanus, combining it with some of the ash of an adult female volcanus, and using fresh lava to set that mixture ablaze, a new volcanus is born after the flames subside. A pair of two volcani has enough ash to sire four children, but most couples only sire two or three. The memories of a volcanus are in part passed down to their children, who often see the memories of their parents in vivid dreams. These memories can also give a volcanus a natural aptitude in the skills their parents knew.",
+										"A volcanus' soul is like a flickering flame\u2014bright and full of life, up until the moment it's snuffed out. Moreso than any other race, a volcanus' lifespan is uncertain. After reaching adulthood, a volcanus shows no more signs of aging, and can die a natural death at any point thereafter. Some might die as early as 20 years old, while others might live to the age of 80. The volcani believe that their lifespan is tied to their innate purpose\u2014when they complete that purpose, death is surely just around the corner.",
+										"But for a volcanus, death isn't truly the end. Death merely signals the beginning of the next generation. When a volcanus dies, their body burns to ash\u2014colored a deep black for males and a vibrant red for females. It is from this ash that a volcanus' children are born. By taking some of the ash of an adult male volcanus, combining it with some of the ash of an adult female volcanus, and using fresh lava to set that mixture ablaze, a new volcanus is born after the flames subside. A pair of two volcani has enough ash to sire four children, but most couples only sire two or three. The memories of a volcanus are in part passed down to their children, who often see the memories of their parents in vivid dreams. These memories can also give a volcanus a natural aptitude in the skills their parents knew.",
 										"The unique reproductive system of volcani, combined with their uncertain lifespans, makes it common for a volcanus to plan for their death early in life. It is almost considered a coming of age ceremony for a young adult volcanus to write their first will. A volcanus' will generally specifies what is to be done with their material possessions, like the wills of other races, but more importantly it specifies what should be done with their ashes. Married volcani will typically create joint wills, stating potential names for their future children, and how many children they wish to have. Unmarried volcani are expected to donate their ashes their community, so that they might be used for adoption purposes. Another oddity of volcanus culture is the creation of a personal urn, which a volcanus either commissions or forges themself. These urns are heavily decorated with symbols telling the life story the volcanus they were made for, and are used to hold and transport a volcanus' ashes upon their death."
 									],
 									"id": "016"
@@ -15166,7 +15166,7 @@
 									"name": "Volcanus Names",
 									"page": 8,
 									"entries": [
-										"As volcani couples are forced to choose their child's names before they can know their gender, volcani names are typically gender-neutral. They also lack true family names—a volcanus' last name is traditionally their father's first name, followed by their mother's first name, separated by a dash.",
+										"As volcani couples are forced to choose their child's names before they can know their gender, volcani names are typically gender-neutral. They also lack true family names\u2014a volcanus' last name is traditionally their father's first name, followed by their mother's first name, separated by a dash.",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",

@@ -39508,33 +39508,24 @@
 					]
 				}
 			],
+			"bonusNote": "The following bonus actions can only be taken by the Akaobata while it is emboldened",
 			"bonus": [
 				{
-					"type": "list",
-					"style": "list-hang-notitle",
-					"name": "The following bonus actions can only be taken by the Akaobata while it is emboldened",
-					"items": [
-						{
-							"name": "Fleeting Strengths",
-							"type": "item",
-							"entries": [
-								"The Akaobata chooses a creature it can see within 60 feet of it. The target must succeed on a {@dc 16} Wisdom saving throw or be cursed by the Akaobata's intrusive magics. This magical curse causes the target to lose proficiency in one saving throw or skill of the Akaobata's choice. The curse lasts until it is lifted by a {@spell Remove Curse} spell or similar magic."
-							]
-						},
-						{
-							"name": "Levitate",
-							"type": "item",
-							"entries": [
-								"The Akaobata casts {@spell Mass Levitate|ObojimaTallGrass} (save {@dc 16}), requiring no material components. Its spellcasting ability for this spell is Charisma."
-							]
-						},
-						{
-							"name": "Power of Whispers",
-							"type": "item",
-							"entries": [
-								"The Akaobata chooses up to two creatures it can see within 60 feet of it. Each target must succeed on a {@dc 16} Constitution saving throw or take 9 ({@damage 1d8 + 5}) psychic damage and become {@condition Restrained} until the end of its next turn."
-							]
-						}
+					"name": "Fleeting Strengths",
+					"entries": [
+						"The Akaobata chooses a creature it can see within 60 feet of it. The target must succeed on a {@dc 16} Wisdom saving throw or be cursed by the Akaobata's intrusive magics. This magical curse causes the target to lose proficiency in one saving throw or skill of the Akaobata's choice. The curse lasts until it is lifted by a {@spell Remove Curse} spell or similar magic."
+					]
+				},
+				{
+					"name": "Levitate",
+					"entries": [
+						"The Akaobata casts {@spell Mass Levitate|ObojimaTallGrass} (save {@dc 16}), requiring no material components. Its spellcasting ability for this spell is Charisma."
+					]
+				},
+				{
+					"name": "Power of Whispers",
+					"entries": [
+						"The Akaobata chooses up to two creatures it can see within 60 feet of it. Each target must succeed on a {@dc 16} Constitution saving throw or take 9 ({@damage 1d8 + 5}) psychic damage and become {@condition Restrained} until the end of its next turn."
 					]
 				}
 			],
