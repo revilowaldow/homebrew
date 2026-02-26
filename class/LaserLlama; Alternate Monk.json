@@ -37,7 +37,7 @@
 			}
 		],
 		"dateAdded": 1649140894,
-		"dateLastModified": 1757944815,
+		"dateLastModified": 1772124006,
 		"optionalFeatureTypes": {
 			"LLAM:T": "Alternate Monk; Mystic Techniques",
 			"FS:AM": "Fighting Style; Alternate Monk",
@@ -54,7 +54,7 @@
 				"LLExploits"
 			]
 		},
-		"_dateLastModifiedHash": "a5893bdb3d",
+		"_dateLastModifiedHash": "7966353184",
 		"edition": "classic"
 	},
 	"class": [
