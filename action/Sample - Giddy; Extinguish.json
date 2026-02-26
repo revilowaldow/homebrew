@@ -4,13 +4,16 @@
 			{
 				"json": "GiddyAction",
 				"abbreviation": "Brew",
-				"full": "TheGiddyLimit",
+				"full": "Sample",
 				"authors": [
 					"TheGiddyLimit"
 				],
 				"version": "1.0.1",
 				"url": "https://github.com/TheGiddyLimit/homebrew"
 			}
+		],
+		"references": [
+			"GiddyCondition"
 		],
 		"edition": "classic",
 		"dateAdded": 0,
