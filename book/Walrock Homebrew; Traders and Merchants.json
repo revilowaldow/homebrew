@@ -2610,7 +2610,7 @@
 											"{@table 10 gp Gemstones|DMG|Gems, common}",
 											"10 gp / ea.",
 											"{@dice 1d4 * 4|1d4 x 4}",
-											"{@book DMG 134}",
+											"{@book DMG 134|DMG}",
 											"Examples: {@item eye agate|DMG|agate}, {@item lapis lazuli|DMG}, {@item malachite|DMG}, {@item tiger eye|DMG}"
 										],
 										[

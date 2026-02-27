@@ -21,6 +21,9 @@
 				"dateReleased": "2023-04-01"
 			}
 		],
+		"references": [
+			"CircleoftheHonk"
+		],
 		"internalCopies": [
 			"monsterFluff"
 		],
@@ -9208,10 +9211,6 @@
 					]
 				}
 			],
-			"legendaryGroup": {
-				"name": "Mother Goose",
-				"source": "Honkonomicon"
-			},
 			"variant": [
 				{
 					"type": "variant",
@@ -11269,7 +11268,7 @@
 							"type": "item",
 							"name": "Stupefying Enlightenment",
 							"entries": [
-								"A random creature in the lair receives prophetic vision. The target makes a {@dc 20} Wisdom saving throw, that it can choose to fail. On a failed save, it receives the benefits of the {@spell augury} or {@spell communion} spell (one question only) but is {@condition incapacitated} until the end of its next turn."
+								"A random creature in the lair receives prophetic vision. The target makes a {@dc 20} Wisdom saving throw, that it can choose to fail. On a failed save, it receives the benefits of the {@spell augury} or {@spell Commune|PHB|communion} spell (one question only) but is {@condition incapacitated} until the end of its next turn."
 							]
 						}
 					]
@@ -11291,7 +11290,7 @@
 							"type": "item",
 							"name": "Honklightenment",
 							"entries": [
-								"Anybody can interact with goose creatures within 5 miles of the Great Golden Goose as if they casted the {@spell speak with animal} spell."
+								"Anybody can interact with goose creatures within 5 miles of the Great Golden Goose as if they casted the {@spell speak with animals} spell."
 							]
 						},
 						{
@@ -14384,7 +14383,7 @@
 							"name": "Goose Creatures (Goose Tag)",
 							"page": 45,
 							"entries": [
-								"For the purpose of this book, a \"goose creature\" is a creature with the Goose tag. Several components of this book refer to goose creatures, like the spell {@creature conjure honkland beings|Honkonomicon} or the {@item Honkonomicon|Honkonomicon} artifact. You will see that all of the creatures in the following pages have the Goose tag, except for the fabled {@creature Mother Goose|Honkonomicon}.",
+								"For the purpose of this book, a \"goose creature\" is a creature with the Goose tag. Several components of this book refer to goose creatures, like the spell {@spell conjure honkland beings|Honkonomicon} or the {@item Honkonomicon|Honkonomicon} artifact. You will see that all of the creatures in the following pages have the Goose tag, except for the fabled {@creature Mother Goose|Honkonomicon}.",
 								"The DM could expand the Goose tag to creatures from other books when it makes sense to do so, such as for the monster from {@loader Circle of the Honk|collection/Vall Syrene; Circle of the Honk.json}."
 							]
 						},
@@ -15411,7 +15410,7 @@
 											"entries": [
 												"The director of a local orphanage, a sweet granny known as {@creature Mother Goose|Honkonomicon}, recently disappeared after visiting one of her \"children\" (an orphan that grew up and left her institution along time ago). Without her, the orphanage will lose its only patron and might eventually be forced to close.",
 												"{@creature Mother Goose|Honkonomicon} is being forcefully held by a {@creature gray honker|Honkonomicon}* that she nurtured many years ago. The honker, afraid to loose her granny again, refuses to let her go. Even if {@creature Mother Goose|Honkonomicon} is actually a strong magical being in disguise, the {@creature gray honker|Honkonomicon} is now immune to her magical influence after being exposed to it for its whole childhood.",
-												"{@creature Mother Goose|Honkonomicon} wishes to be freed, and will fight alongside the characters (aiding them with her magic) as long as they don't try to kill \"her child\". She will reward the characters with a {@creature cane of the silly goose|Honkonomicon}* and other treasures if they manage to free her without killing the honker.",
+												"{@creature Mother Goose|Honkonomicon} wishes to be freed, and will fight alongside the characters (aiding them with her magic) as long as they don't try to kill \"her child\". She will reward the characters with a {@item cane of the silly goose|Honkonomicon}* and other treasures if they manage to free her without killing the honker.",
 												"If the characters fail or abandon the quest, the {@creature gray honker|Honkonomicon} will eventually kill {@creature Mother Goose|Honkonomicon} by accident, then go into a crazy rampage and lay waste to the whole region."
 											]
 										}

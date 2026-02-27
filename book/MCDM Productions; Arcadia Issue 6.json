@@ -4310,7 +4310,9 @@
 						},
 						{
 							"type": "quote",
-							"entries": [],
+							"entries": [
+								""
+							],
 							"by": "James Introcaso",
 							"from": "Managing Editor"
 						}

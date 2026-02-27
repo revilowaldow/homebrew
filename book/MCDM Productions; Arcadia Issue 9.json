@@ -21,6 +21,9 @@
 				"color": "707442"
 			}
 		],
+		"references": [
+			"SaF"
+		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1721603400,
@@ -5893,7 +5896,9 @@
 						},
 						{
 							"type": "quote",
-							"entries": [],
+							"entries": [
+								""
+							],
 							"by": "James Introcaso",
 							"from": "Managing Editor"
 						}
