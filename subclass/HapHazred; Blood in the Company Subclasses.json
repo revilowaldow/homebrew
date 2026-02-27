@@ -17,6 +17,9 @@
 				"dateReleased": "2024-03-06"
 			}
 		],
+		"references": [
+			"BloodInTheCompany"
+		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1709726213,

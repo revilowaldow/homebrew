@@ -17,6 +17,9 @@
 				"dateReleased": "2025-04-01"
 			}
 		],
+		"references": [
+			"KibblesTasty:CC"
+		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1712163563,

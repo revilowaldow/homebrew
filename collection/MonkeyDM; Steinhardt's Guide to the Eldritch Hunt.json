@@ -8132,7 +8132,7 @@
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "A set of {@item common clothes|PHB}, a trophy from a beast you've slain, a {@item hunter's kit|SGttEH} (includes 20 {@item bullet|SGttEH|lead bullets}, a {@item silvered dagger|PHB}, a {@item flare|SGttEH}, and a {@item flask|PHB|silver flask}), a {@item healer's kit|PHB}, and a {@item pouch|PHB|belt pouch} containing 10 gp."
+							"entry": "A set of {@item common clothes|PHB}, a trophy from a beast you've slain, a {@item hunter's kit|SGttEH} (includes 20 {@item lead bullet|SGttEH|lead bullets}, a {@item silvered dagger|PHB}, a {@item flare|SGttEH}, and a {@item flask|PHB|silver flask}), a {@item healer's kit|PHB}, and a {@item pouch|PHB|belt pouch} containing 10 gp."
 						}
 					]
 				},
@@ -9060,7 +9060,7 @@
 							"type": "table",
 							"caption": "Bonds",
 							"colLabels": [
-								"d6",
+								"d8",
 								"Bond"
 							],
 							"colStyles": [
@@ -9429,7 +9429,7 @@
 							"item": "pouch|phb",
 							"containsValue": 1000
 						},
-						"Sacrificial Brand (Scarified)|SGttEH"
+						"Sacrificial Brand, Scarified|SGttEH"
 					]
 				}
 			],
@@ -9451,7 +9451,7 @@
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "A {@item flare|SGttEH} (used to indicate your position during hunts), a set of {@item common clothes|PHB}, a small knife for carving runes, a {@item book|PHB|journal} detailing your experiences since rebirth, and a {@item pouch|PHB} containing 10 gold pieces. The {@item Sacrificial Brand (Scarified)|SGttEH|Sacrificial Brand Eldritch Carving is scarified} on your body."
+							"entry": "A {@item flare|SGttEH} (used to indicate your position during hunts), a set of {@item common clothes|PHB}, a small knife for carving runes, a {@item book|PHB|journal} detailing your experiences since rebirth, and a {@item pouch|PHB} containing 10 gold pieces. The {@item Sacrificial Brand, Scarified|SGttEH|Sacrificial Brand Eldritch Carving is scarified} on your body."
 						}
 					]
 				},
@@ -16905,7 +16905,6 @@
 			"dmgType": "P",
 			"firearm": true,
 			"weapon": true,
-			"entries": [],
 			"ammoType": "lead bullet|SGttEH",
 			"customProperties": {
 				"barrel": 2,
@@ -16933,7 +16932,6 @@
 			"dmgType": "P",
 			"firearm": true,
 			"weapon": true,
-			"entries": [],
 			"ammoType": "cannonball|SGttEH",
 			"hasFluffImages": true
 		},
@@ -16966,8 +16964,7 @@
 			"dmgType": "S",
 			"dmg2": "1d12",
 			"dagger": true,
-			"weapon": true,
-			"entries": []
+			"weapon": true
 		},
 		{
 			"name": "Explosive Bullet",
@@ -17015,7 +17012,6 @@
 			"dmgType": "P",
 			"firearm": true,
 			"weapon": true,
-			"entries": [],
 			"ammoType": "lead bullet|SGttEH",
 			"customProperties": {
 				"barrel": 1,
@@ -17056,7 +17052,6 @@
 			"dmgType": "P",
 			"firearm": true,
 			"weapon": true,
-			"entries": [],
 			"ammoType": "lead bullet|SGttEH",
 			"customProperties": {
 				"barrel": 6,
@@ -17087,7 +17082,6 @@
 			"dmgType": "P",
 			"firearm": true,
 			"weapon": true,
-			"entries": [],
 			"ammoType": "lead bullet|SGttEH",
 			"customProperties": {
 				"barrel": 2,
@@ -17126,8 +17120,7 @@
 			"dmg1": "1d10",
 			"dmgType": "S",
 			"polearm": true,
-			"weapon": true,
-			"entries": []
+			"weapon": true
 		},
 		{
 			"name": "Shears",
@@ -17487,9 +17480,9 @@
 			],
 			"foundryType": "weapon",
 			"entries": [
-				"To gain the benefits of the cordyceps sinensis, you must ingest it, or graft it underneath your skin. For 24 hours, the fungus will incubate within you; during that time, if you swallow liquid flames or light the grafted area ablaze, you will kill the parasite. After 24 hours have passed, the only way to remove the parasite is with a {@spell remove curse} spell cast at 6th level or higher. If you receive {@item Nawre's Blessing|SGttEH}, nothing short of a {@spell wish} spell will remove the fungus.",
+				"To gain the benefits of the cordyceps sinensis, you must ingest it, or graft it underneath your skin. For 24 hours, the fungus will incubate within you; during that time, if you swallow liquid flames or light the grafted area ablaze, you will kill the parasite. After 24 hours have passed, the only way to remove the parasite is with a {@spell remove curse} spell cast at 6th level or higher. If you receive {@item Naw're's Blessing|SGttEH}, nothing short of a {@spell wish} spell will remove the fungus.",
 				"While infected with the cordyceps sinensis, when you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once this property has been used, it can't be used again until the next dawn.",
-				"If you have {@item Nawre's Blessing|SGttEH} {@item Nawre's Blessing, Tattooed|SGttEH|tattooed} or {@item Nawre's Blessing, Scarified|SGttEH|carved} onto your body, the parasite becomes a trick weapon for you. You can use your choice of Intelligence, Wisdom, or Charisma, instead of Strength or Dexterity, for the attack and damage rolls made with this magic weapon.",
+				"If you have {@item Naw're's Blessing|SGttEH} {@item Naw're's Blessing, Tattooed|SGttEH|tattooed} or {@item Naw're's Blessing, Scarified|SGttEH|carved} onto your body, the parasite becomes a trick weapon for you. You can use your choice of Intelligence, Wisdom, or Charisma, instead of Strength or Dexterity, for the attack and damage rolls made with this magic weapon.",
 				{
 					"type": "entries",
 					"name": "Trick Weapon",
@@ -18361,7 +18354,7 @@
 				{
 					"type": "list",
 					"items": [
-						"20 {@item bullet|SGttEH|lead bullets}",
+						"20 {@item lead bullet|SGttEH|lead bullets}",
 						"a {@item silvered dagger|PHB}",
 						"a {@item flare|SGttEH}",
 						"a {@item flask|PHB|silver flask}"
@@ -18370,7 +18363,7 @@
 			],
 			"packContents": [
 				{
-					"item": "bullet|SGttEH",
+					"item": "lead bullet|SGttEH",
 					"quantity": 20
 				},
 				"silvered dagger|PHB",
@@ -19397,7 +19390,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Nawre's Blessing, Drawn",
+			"name": "Naw're's Blessing, Drawn",
 			"source": "SGttEH",
 			"page": 263,
 			"type": "EC",
@@ -19418,10 +19411,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Nawre's Blessing, Scarified",
+			"name": "Naw're's Blessing, Scarified",
 			"source": "SGttEH",
 			"_copy": {
-				"name": "Nawre's Blessing, Tattooed",
+				"name": "Naw're's Blessing, Tattooed",
 				"source": "SGttEH",
 				"_preserve": {
 					"hasFluff": true,
@@ -19460,10 +19453,10 @@
 			]
 		},
 		{
-			"name": "Nawre's Blessing, Tattooed",
+			"name": "Naw're's Blessing, Tattooed",
 			"source": "SGttEH",
 			"_copy": {
-				"name": "Nawre's Blessing, Drawn",
+				"name": "Naw're's Blessing, Drawn",
 				"source": "SGttEH",
 				"_preserve": {
 					"hasFluff": true,
@@ -21623,7 +21616,7 @@
 			"type": "P",
 			"rarity": "uncommon",
 			"entries": [
-				"{@note * This item group has the same name and source as the item {@item Holy Tonic}}.",
+				"{@note * This item group has the same name and source as the item {@item Holy Tonic|SGttEH}}.",
 				"The mostly-clear tonic in this vial is slightly milky and sparkles when light shines through. It was originally created by a secretive branch of the Radiant Church.",
 				"When you drink this tonic, you regain {@dice 4d4 + 4} hit points and are cured of all diseases you currently suffer from.",
 				{
@@ -21885,7 +21878,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Nawre's Blessing",
+			"name": "Naw're's Blessing",
 			"source": "SGttEH",
 			"page": 263,
 			"type": "EC",
@@ -21921,9 +21914,9 @@
 				}
 			],
 			"items": [
-				"Nawre's Blessing, Drawn|SGttEH",
-				"Nawre's Blessing, Tattooed|SGttEH",
-				"Nawre's Blessing, Scarified|SGttEH"
+				"Naw're's Blessing, Drawn|SGttEH",
+				"Naw're's Blessing, Tattooed|SGttEH",
+				"Naw're's Blessing, Scarified|SGttEH"
 			],
 			"hasFluff": true,
 			"hasFluffImages": true
@@ -23578,7 +23571,7 @@
 			]
 		},
 		{
-			"name": "Nawre's Blessing",
+			"name": "Naw're's Blessing",
 			"source": "SGttEH",
 			"entries": [
 				{
@@ -23603,10 +23596,10 @@
 			]
 		},
 		{
-			"name": "Nawre's Blessing, Drawn",
+			"name": "Naw're's Blessing, Drawn",
 			"source": "SGttEH",
 			"_copy": {
-				"name": "Nawre's Blessing",
+				"name": "Naw're's Blessing",
 				"source": "SGttEH",
 				"_mod": {
 					"images": {
@@ -23628,10 +23621,10 @@
 			}
 		},
 		{
-			"name": "Nawre's Blessing, Scarified",
+			"name": "Naw're's Blessing, Scarified",
 			"source": "SGttEH",
 			"_copy": {
-				"name": "Nawre's Blessing",
+				"name": "Naw're's Blessing",
 				"source": "SGttEH",
 				"_mod": {
 					"images": {
@@ -23653,10 +23646,10 @@
 			}
 		},
 		{
-			"name": "Nawre's Blessing, Tattooed",
+			"name": "Naw're's Blessing, Tattooed",
 			"source": "SGttEH",
 			"_copy": {
-				"name": "Nawre's Blessing",
+				"name": "Naw're's Blessing",
 				"source": "SGttEH",
 				"_mod": {
 					"images": {
@@ -25206,7 +25199,7 @@
 					"type": "entries",
 					"name": "Fan Fire",
 					"entries": [
-						"You can quickly fire this weapon by slamming the hammer repeatedly. As an action, you fire a number of bullets in a row equal to your Dexterity modifier (minimum of 2, up to the entirety of the barrel). Each attack after the first suffers a cumulative \u22123 penalty to the attack roll. You cannot add any modifier to the damage roll of these attacks beyond the first (such as the bonus from your Dexterity modifier, the {@feat Sharp-shooter|SGttEH} feat, or a magic weapon's bonus to damage rolls). When you use this action, your speed becomes 0 until the end of your turn, and attacks you make using the long range of the weapon automatically miss.",
+						"You can quickly fire this weapon by slamming the hammer repeatedly. As an action, you fire a number of bullets in a row equal to your Dexterity modifier (minimum of 2, up to the entirety of the barrel). Each attack after the first suffers a cumulative \u22123 penalty to the attack roll. You cannot add any modifier to the damage roll of these attacks beyond the first (such as the bonus from your Dexterity modifier, the {@feat Sharpshooter|SGttEH} feat, or a magic weapon's bonus to damage rolls). When you use this action, your speed becomes 0 until the end of your turn, and attacks you make using the long range of the weapon automatically miss.",
 						"If you roll a 1 on any of the attack rolls, the weapon jams and can't be used again until it is repaired. You can use an action to make a {@dc 15} {@skill Sleight of Hand} check, repairing the weapon on a success. Alternatively, you can spend 1 hour outside of combat to mend it, automatically succeeding on the check. If your check fails, the weapon is broken and must be mended in a specialist's store at a quarter of the cost of the firearm."
 					]
 				}
@@ -25476,12 +25469,12 @@
 				"Ethereal Moongold Equalizer|Trick Weapons Deck|SGttEH",
 				"Épée Sanguine|Trick Weapons Deck|SGttEH",
 				"Thirsting Épée Sanguine|Trick Weapons Deck|SGttEH",
-				"Scionic Armament: Melee|Trick Weapons Deck|SGttEH",
-				"Scionic Armament: Ranged|Trick Weapons Deck|SGttEH",
-				"Scionic Armament: Focus|Trick Weapons Deck|SGttEH",
-				"Roaring Scionic Armament: Melee|Trick Weapons Deck|SGttEH",
-				"Roaring Scionic Armament: Ranged|Trick Weapons Deck|SGttEH",
-				"Roaring Scionic Armament: Spellcasting|Trick Weapons Deck|SGttEH",
+				"Scionic Armament, Melee|Trick Weapons Deck|SGttEH",
+				"Scionic Armament, Ranged|Trick Weapons Deck|SGttEH",
+				"Scionic Armament, Focus|Trick Weapons Deck|SGttEH",
+				"Roaring Scionic Armament, Melee|Trick Weapons Deck|SGttEH",
+				"Roaring Scionic Armament, Ranged|Trick Weapons Deck|SGttEH",
+				"Roaring Scionic Armament, Spellcasting|Trick Weapons Deck|SGttEH",
 				"Stick|Trick Weapons Deck|SGttEH",
 				"Shard of Moonlight|Trick Weapons Deck|SGttEH",
 				"Dream Executioner|Trick Weapons Deck|SGttEH",
@@ -27994,7 +27987,7 @@
 			]
 		},
 		{
-			"name": "Roaring Scionic Armament: Melee",
+			"name": "Roaring Scionic Armament, Melee",
 			"source": "SGttEH",
 			"set": "Trick Weapons Deck",
 			"page": 88,
@@ -28027,7 +28020,7 @@
 			]
 		},
 		{
-			"name": "Roaring Scionic Armament: Ranged",
+			"name": "Roaring Scionic Armament, Ranged",
 			"source": "SGttEH",
 			"set": "Trick Weapons Deck",
 			"page": 91,
@@ -28060,7 +28053,7 @@
 			]
 		},
 		{
-			"name": "Roaring Scionic Armament: Spellcasting",
+			"name": "Roaring Scionic Armament, Spellcasting",
 			"source": "SGttEH",
 			"set": "Trick Weapons Deck",
 			"page": 94,
@@ -28159,7 +28152,7 @@
 			]
 		},
 		{
-			"name": "Scionic Armament: Focus",
+			"name": "Scionic Armament, Focus",
 			"source": "SGttEH",
 			"set": "Trick Weapons Deck",
 			"page": 85,
@@ -28192,7 +28185,7 @@
 			]
 		},
 		{
-			"name": "Scionic Armament: Melee",
+			"name": "Scionic Armament, Melee",
 			"source": "SGttEH",
 			"set": "Trick Weapons Deck",
 			"page": 79,
@@ -28225,7 +28218,7 @@
 			]
 		},
 		{
-			"name": "Scionic Armament: Ranged",
+			"name": "Scionic Armament, Ranged",
 			"source": "SGttEH",
 			"set": "Trick Weapons Deck",
 			"page": 82,
@@ -49410,7 +49403,7 @@
 													"name": "Encounter: The Corrupted Child",
 													"page": 479,
 													"entries": [
-														"The corrupted child-god ({@creature Orr, the Grieving Rebirth|SGttEH}, Page 372) is in a constant state of madness and grief, unable to articulate or speak with the characters. Each time it opens its mouth, it releases a debilitating scream backed by its blend of eldritch and divine powers. It uses its screams to weaken the characters and uses the Eldritch Summoning lair action (see below) to mold creatures out of the darkness to overwhelm the party. The child-god knows only pain and is without fear, fighting to the death in its rage and utter despair."
+														"The corrupted child-god ({@creature Orr, the Grieving Rebirth (First Form)|SGttEH|Orr, the Grieving Rebirth}, Page 372) is in a constant state of madness and grief, unable to articulate or speak with the characters. Each time it opens its mouth, it releases a debilitating scream backed by its blend of eldritch and divine powers. It uses its screams to weaken the characters and uses the Eldritch Summoning lair action (see below) to mold creatures out of the darkness to overwhelm the party. The child-god knows only pain and is without fear, fighting to the death in its rage and utter despair."
 													],
 													"id": "064"
 												}
@@ -49739,7 +49732,7 @@
 									"name": "Scion Custodians",
 									"page": 450,
 									"entries": [
-										"The former main entrance to the temple was discovered by the arcane scientists known as the Scions. They attempted to clear the creatures inside using their {@creature blue flame custodian|SGttEH|blue flame custodians} {@homebrew |(page 352)}, but they failed. The custodians were ill-suited to this task, as their fleshy parts fell under the eldritch influences within the temple. The characters can attempt to convince the Scion Percival Stanway (see {@area area 8|EoM-1-8|x}) to lend them a custodian to assist in their exploration; those they come across in the depths have otherwise already gone feral."
+										"The former main entrance to the temple was discovered by the arcane scientists known as the Scions. They attempted to clear the creatures inside using their {@creature blue-flame custodian|SGttEH|blue-flame custodians} {@homebrew |(page 352)}, but they failed. The custodians were ill-suited to this task, as their fleshy parts fell under the eldritch influences within the temple. The characters can attempt to convince the Scion Percival Stanway (see {@area area 8|EoM-1-8|x}) to lend them a custodian to assist in their exploration; those they come across in the depths have otherwise already gone feral."
 									],
 									"id": "013"
 								},
@@ -50742,7 +50735,7 @@
 									"page": 455,
 									"id": "EoM-1-8",
 									"entries": [
-										"This location is the entrance the Scions excavated and can be used as the party's entry point into the temple (see \"{@adventure Bones of the Scions|SGttEH-EoM|0|Bones of the Scions}\" section, page 448). A Scion named Percival Stanway is repairing a {@creature blue flame custodian|SGttEH|custodian} and can provide the party with limited information.",
+										"This location is the entrance the Scions excavated and can be used as the party's entry point into the temple (see \"{@adventure Bones of the Scions|SGttEH-EoM|0|Bones of the Scions}\" section, page 448). A Scion named Percival Stanway is repairing a {@creature blue-flame custodian|SGttEH|custodian} and can provide the party with limited information.",
 										"When the party enters this area for the first time, read aloud the following:",
 										{
 											"type": "insetReadaloud",
@@ -50767,7 +50760,7 @@
 											],
 											"id": "039"
 										},
-										"Percival Stanway is finishing repairs on a {@creature blue flame custodian|SGttEH} {@homebrew |(page 352)} and is surprised to see the party in the temple. If the Scions sent the characters here, he greets them warmly and answers any questions they might have. Otherwise, he treats them suspiciously at first, wondering how they got into the temple.",
+										"Percival Stanway is finishing repairs on a {@creature blue-flame custodian|SGttEH} {@homebrew |(page 352)} and is surprised to see the party in the temple. If the Scions sent the characters here, he greets them warmly and answers any questions they might have. Otherwise, he treats them suspiciously at first, wondering how they got into the temple.",
 										"Percival knows the following useful information:",
 										{
 											"type": "list",
@@ -54900,7 +54893,7 @@
 											],
 											"id": "03c"
 										},
-										"A character inspecting the bones who is proficient with {@item alchemist's tools|PHB} or who succeeds on a {@dc 12} Wisdom ({@skill Perception}) check notices the bones are smooth and unmarked, as if the flesh was melted off them. A successful {@dc 15} Intelligence ({@skill History}) check reveals the flower petals over the eyes are part of a local ritual to send the dead into the afterlife. These are the remains of the villagers killed by the acid flood. The {@creature Veiled Hunter|SGttEH} laid them here as a reminder of what the village had lost.",
+										"A character inspecting the bones who is proficient with {@item alchemist's supplies|PHB|alchemist's tools} or who succeeds on a {@dc 12} Wisdom ({@skill Perception}) check notices the bones are smooth and unmarked, as if the flesh was melted off them. A successful {@dc 15} Intelligence ({@skill History}) check reveals the flower petals over the eyes are part of a local ritual to send the dead into the afterlife. These are the remains of the villagers killed by the acid flood. The {@creature Veiled Hunter|SGttEH} laid them here as a reminder of what the village had lost.",
 										{
 											"type": "entries",
 											"entries": [
@@ -54942,7 +54935,7 @@
 													"name": "Hazard: Toxic Fumes",
 													"page": 438,
 													"entries": [
-														"Creatures spending more than 1 minute breathing the fumes in this chamber must succeed on a {@dc 15} Constitution saving throw or become {@skill poisoned} for 1 hour."
+														"Creatures spending more than 1 minute breathing the fumes in this chamber must succeed on a {@dc 15} Constitution saving throw or become {@condition poisoned} for 1 hour."
 													],
 													"id": "041"
 												},
@@ -56877,12 +56870,12 @@
 						"Ethereal Moongold Equalizer",
 						"Épée Sanguine",
 						"Thirsting Épée Sanguine",
-						"Scionic Armament: Melee",
-						"Scionic Armament: Ranged",
-						"Scionic Armament: Focus",
-						"Roaring Scionic Armament: Melee",
-						"Roaring Scionic Armament: Ranged",
-						"Roaring Scionic Armament: Spellcasting",
+						"Scionic Armament, Melee",
+						"Scionic Armament, Ranged",
+						"Scionic Armament, Focus",
+						"Roaring Scionic Armament, Melee",
+						"Roaring Scionic Armament, Ranged",
+						"Roaring Scionic Armament, Spellcasting",
 						"Stick",
 						"Shard of Moonlight",
 						"Dream Executioner",
@@ -63317,7 +63310,7 @@
 									"type": "statblock",
 									"tag": "feat",
 									"source": "SGttEH",
-									"displayName": "Optional: Sharp-shooter",
+									"displayName": "Optional: Sharpshooter",
 									"name": "Sharpshooter",
 									"page": 173
 								},
@@ -64495,7 +64488,7 @@
 													"name": "Fan Fire",
 													"page": 209,
 													"entries": [
-														"You can quickly fire this weapon by slamming the hammer repeatedly. As an action, you fire a number of bullets in a row equal to your Dexterity modifier (minimum of 2, up to the entirety of the barrel). Each attack after the first suffers a cumulative \u22123 penalty to the attack roll. You cannot add any modifier to the damage roll of these attacks beyond the first (such as the bonus from your Dexterity modifier, the {@feat Sharp-shooter|SGttEH} feat, or a magic weapon's bonus to damage rolls). When you use this action, your speed becomes 0 until the end of your turn, and attacks you make using the long range of the weapon automatically miss.",
+														"You can quickly fire this weapon by slamming the hammer repeatedly. As an action, you fire a number of bullets in a row equal to your Dexterity modifier (minimum of 2, up to the entirety of the barrel). Each attack after the first suffers a cumulative \u22123 penalty to the attack roll. You cannot add any modifier to the damage roll of these attacks beyond the first (such as the bonus from your Dexterity modifier, the {@feat Sharpshooter|SGttEH} feat, or a magic weapon's bonus to damage rolls). When you use this action, your speed becomes 0 until the end of your turn, and attacks you make using the long range of the weapon automatically miss.",
 														"If you roll a 1 on any of the attack rolls, the weapon jams and can't be used again until it is repaired. You can use an action to make a {@dc 15} {@skill Sleight of Hand} check, repairing the weapon on a success. Alternatively, you can spend 1 hour outside of combat to mend it, automatically succeeding on the check. If your check fails, the weapon is broken and must be mended in a specialist's store at a quarter of the cost of the firearm."
 													],
 													"id": "14b"
@@ -65267,7 +65260,7 @@
 											"type": "statblock",
 											"tag": "item",
 											"source": "SGttEH",
-											"name": "Scionic Armament; Melee",
+											"name": "Scionic Armament, Melee",
 											"page": 230
 										},
 										{
@@ -65283,14 +65276,14 @@
 											"type": "statblock",
 											"tag": "item",
 											"source": "SGttEH",
-											"name": "Scionic Armament; Ranged",
+											"name": "Scionic Armament, Ranged",
 											"page": 230
 										},
 										{
 											"type": "statblock",
 											"tag": "item",
 											"source": "SGttEH",
-											"name": "Scionic Armament; Spellcasting Focus",
+											"name": "Scionic Armament, Spellcasting Focus",
 											"page": 231
 										},
 										{
@@ -65972,21 +65965,21 @@
 											"type": "statblock",
 											"tag": "item",
 											"source": "SGttEH",
-											"name": "Roaring Scionic Armament; Melee",
+											"name": "Roaring Scionic Armament, Melee",
 											"page": 251
 										},
 										{
 											"type": "statblock",
 											"tag": "item",
 											"source": "SGttEH",
-											"name": "Roaring Scionic Armament; Ranged",
+											"name": "Roaring Scionic Armament, Ranged",
 											"page": 251
 										},
 										{
 											"type": "statblock",
 											"tag": "item",
 											"source": "SGttEH",
-											"name": "Roaring Scionic Armament; Spellcasting Focus",
+											"name": "Roaring Scionic Armament, Spellcasting Focus",
 											"page": 251
 										},
 										{
@@ -66301,7 +66294,7 @@
 									"type": "statblock",
 									"tag": "item",
 									"source": "SGttEH",
-									"name": "Nawre's Blessing",
+									"name": "Naw're's Blessing",
 									"page": 263
 								},
 								{
@@ -78005,7 +77998,7 @@
 													"name": "Fan Fire",
 													"page": 124,
 													"entries": [
-														"You can quickly fire this weapon by slamming the hammer repeatedly. As an action, you fire a number of bullets in a row equal to your Dexterity modifier (minimum of 2, up to the entirety of the barrel). Each attack after the first suffers a cumulative \u22123 penalty to the attack roll. You cannot add any modifier to the damage roll of these attacks beyond the first (such as the bonus from your Dexterity modifier, the {@feat Sharp-shooter|SGttEH} feat, or a magic weapon's bonus to damage rolls). When you use this action, your speed becomes 0 until the end of your turn, and attacks you make using the long range of the weapon automatically miss.",
+														"You can quickly fire this weapon by slamming the hammer repeatedly. As an action, you fire a number of bullets in a row equal to your Dexterity modifier (minimum of 2, up to the entirety of the barrel). Each attack after the first suffers a cumulative \u22123 penalty to the attack roll. You cannot add any modifier to the damage roll of these attacks beyond the first (such as the bonus from your Dexterity modifier, the {@feat Sharpshooter|SGttEH} feat, or a magic weapon's bonus to damage rolls). When you use this action, your speed becomes 0 until the end of your turn, and attacks you make using the long range of the weapon automatically miss.",
 														"If you roll a 1 on any of the attack rolls, the weapon jams and can't be used again until it is repaired. You can use an action to make a {@dc 15} {@skill Sleight of Hand} check, repairing the weapon on a success. Alternatively, you can spend 1 hour outside of combat to mend it, automatically succeeding on the check. If your check fails, the weapon is broken and must be mended in a specialist's store at a quarter of the cost of the firearm."
 													],
 													"id": "01c"
@@ -79620,7 +79613,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Scionic Armament: Melee",
+							"name": "Scionic Armament, Melee",
 							"page": 79,
 							"entries": [
 								{
@@ -79659,7 +79652,7 @@
 									"type": "statblock",
 									"tag": "item",
 									"source": "SGttEH",
-									"name": "Scionic Armament: Melee",
+									"name": "Scionic Armament, Melee",
 									"page": 81
 								}
 							],
@@ -79667,7 +79660,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Scionic Armament: Ranged",
+							"name": "Scionic Armament, Ranged",
 							"page": 82,
 							"entries": [
 								{
@@ -79706,7 +79699,7 @@
 									"type": "statblock",
 									"tag": "item",
 									"source": "SGttEH",
-									"name": "Scionic Armament: Ranged",
+									"name": "Scionic Armament, Ranged",
 									"page": 84
 								}
 							],
@@ -79714,7 +79707,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Scionic Armament: Focus",
+							"name": "Scionic Armament, Focus",
 							"page": 85,
 							"entries": [
 								{
@@ -79753,7 +79746,7 @@
 									"type": "statblock",
 									"tag": "item",
 									"source": "SGttEH",
-									"name": "Scionic Armament: Focus",
+									"name": "Scionic Armament, Focus",
 									"page": 87
 								}
 							],
@@ -79761,7 +79754,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Roaring Scionic Armament: Melee",
+							"name": "Roaring Scionic Armament, Melee",
 							"page": 88,
 							"entries": [
 								{
@@ -79800,7 +79793,7 @@
 									"type": "statblock",
 									"tag": "item",
 									"source": "SGttEH",
-									"name": "Roaring Scionic Armament: Melee",
+									"name": "Roaring Scionic Armament, Melee",
 									"page": 90
 								}
 							],
@@ -79808,7 +79801,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Roaring Scionic Armament: Ranged",
+							"name": "Roaring Scionic Armament, Ranged",
 							"page": 91,
 							"entries": [
 								{
@@ -79847,7 +79840,7 @@
 									"type": "statblock",
 									"tag": "item",
 									"source": "SGttEH",
-									"name": "Roaring Scionic Armament: Ranged",
+									"name": "Roaring Scionic Armament, Ranged",
 									"page": 93
 								}
 							],
@@ -79855,7 +79848,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Roaring Scionic Armament: Spellcasting",
+							"name": "Roaring Scionic Armament, Spellcasting",
 							"page": 94,
 							"entries": [
 								{
@@ -79894,7 +79887,7 @@
 									"type": "statblock",
 									"tag": "item",
 									"source": "SGttEH",
-									"name": "Roaring Scionic Armament: Spellcasting",
+									"name": "Roaring Scionic Armament, Spellcasting",
 									"page": 96
 								}
 							],

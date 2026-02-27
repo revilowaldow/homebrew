@@ -18,6 +18,9 @@
 				"dateReleased": "2021-10-08"
 			}
 		],
+		"references": [
+			"KibblesTasty:CC"
+		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1635791821,

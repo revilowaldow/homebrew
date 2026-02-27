@@ -18,6 +18,9 @@
 				"dateReleased": "2024-12-01"
 			}
 		],
+		"references": [
+			"SGttEH"
+		],
 		"fonts": {
 			"radiantcross": "https://raw.githack.com/TheGiddyLimit/homebrew-img/main/font/SGttEH/radiantcross.otf"
 		},

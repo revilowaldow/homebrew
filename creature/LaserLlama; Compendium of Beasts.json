@@ -21,6 +21,9 @@
 		"internalCopies": [
 			"monsterFluff"
 		],
+		"references": [
+			"LLLaserLlama"
+		],
 		"edition": "one",
 		"status": "ready",
 		"dateAdded": 1745013823,

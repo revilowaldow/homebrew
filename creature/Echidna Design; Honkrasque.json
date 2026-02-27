@@ -18,6 +18,9 @@
 				"dateReleased": "2023-03-25"
 			}
 		],
+		"references": [
+			"Honkonomicon"
+		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1766930750,

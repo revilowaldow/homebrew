@@ -30,6 +30,10 @@
 				"MM"
 			]
 		},
+		"references": [
+			"Ar8",
+			"ILL"
+		],
 		"internalCopies": [
 			"monster",
 			"monsterFluff"

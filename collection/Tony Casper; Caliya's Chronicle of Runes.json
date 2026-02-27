@@ -2674,6 +2674,41 @@
 					"page": 354
 				}
 			]
+		},
+		{
+			"name": "Celestial",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Abyssal",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Primordial",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Draconic",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Druidic",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
 		}
 	],
 	"table": [

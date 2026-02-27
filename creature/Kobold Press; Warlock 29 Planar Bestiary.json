@@ -20,6 +20,11 @@
 				"dateReleased": "2021-11-22"
 			}
 		],
+		"references": [
+			"CCodex",
+			"ToB2",
+			"ToB"
+		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1682168201,
@@ -1953,7 +1958,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell black tentacles}",
+							"{@spell Evard's Black Tentacles|PHB|black tentacles}",
 							"{@spell hold monster}",
 							"{@spell mirror image}"
 						],
@@ -2429,7 +2434,7 @@
 			]
 		},
 		{
-			"name": "Xethiloth",
+			"name": "Shirveka",
 			"source": "W29PB",
 			"entries": [
 				"Held aloft on skeletal wings, draped in black and purple silks, the creature wears a crown of swirling soul gems from which it periodically feeds\u2014a grand connoisseur of agony. Six arms, two humanoid and four skeletal, hold arcane accouterments. Her jackal head is partially stripped of putrefying flesh while her reptilian tail ends in a swirling globe of sickly yellow light, like a dangling lure of some deep-sea predator.",
@@ -2482,10 +2487,10 @@
 					"type": "image",
 					"href": {
 						"type": "external",
-						"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/W29_PB/Xethiloth.webp"
+						"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/W29_PB/Shirveka.webp"
 					},
-					"width": 560,
-					"height": 961
+					"width": 620,
+					"height": 885
 				}
 			]
 		}

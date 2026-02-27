@@ -30,6 +30,10 @@
 			"monster",
 			"monsterFluff"
 		],
+		"references": [
+			"SaF",
+			"Ar1"
+		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1625135453,
@@ -3196,7 +3200,9 @@
 						},
 						{
 							"type": "quote",
-							"entries": [],
+							"entries": [
+								""
+							],
 							"by": "James Introcaso"
 						}
 					],

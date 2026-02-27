@@ -19,6 +19,9 @@
 				"dateReleased": "2017-06-28"
 			}
 		],
+		"references": [
+			"ToB"
+		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1706371402,

@@ -6394,8 +6394,7 @@
 			"abbreviation": "Hrb",
 			"source": "HHbH",
 			"page": 5,
-			"template": "{@b Location:} {{item.customProperties.lcn}} {@b Requires Preparation:} {{item.customProperties.prep}}",
-			"entries": []
+			"template": "{@b Location:} {{item.customProperties.lcn}} {@b Requires Preparation:} {{item.customProperties.prep}}"
 		}
 	],
 	"itemType": [
@@ -6403,8 +6402,7 @@
 			"name": "Herb",
 			"abbreviation": "Herb",
 			"source": "HHbH",
-			"page": 5,
-			"entries": []
+			"page": 5
 		}
 	],
 	"variantrule": [
