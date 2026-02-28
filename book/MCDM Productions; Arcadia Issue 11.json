@@ -26,16 +26,16 @@
 				"MM"
 			]
 		},
-		"references": [
-			"ILL",
-			"BST",
-			"Ar1",
-			"Ar3",
-			"KaW"
-		],
 		"internalCopies": [
 			"raceFluff",
 			"monsterFluff"
+		],
+		"references": [
+			"Ar1",
+			"Ar3",
+			"BST",
+			"ILL",
+			"KaW"
 		],
 		"edition": "classic",
 		"status": "ready",

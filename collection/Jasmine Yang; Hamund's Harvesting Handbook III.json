@@ -18,14 +18,14 @@
 				"dateReleased": "2020-11-23"
 			}
 		],
-		"optionalFeatureTypes": {
-			"HHH:BT": "Hamund: Butcher's Tool",
-			"HHH:MS": "Hamund: Mirrored Stance"
-		},
 		"references": [
 			"HHHVI",
 			"HHHVII"
 		],
+		"optionalFeatureTypes": {
+			"HHH:BT": "Hamund: Butcher's Tool",
+			"HHH:MS": "Hamund: Mirrored Stance"
+		},
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1665076023,

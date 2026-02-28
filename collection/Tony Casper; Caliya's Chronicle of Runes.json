@@ -2509,6 +2509,41 @@
 	],
 	"language": [
 		{
+			"name": "Abyssal",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Celestial",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Draconic",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Druidic",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Primordial",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
 			"name": "Serpentine",
 			"source": "CaChRn",
 			"page": 54,
@@ -2673,41 +2708,6 @@
 					"name": "Serpentine Script",
 					"page": 354
 				}
-			]
-		},
-		{
-			"name": "Celestial",
-			"source": "CaChRn",
-			"entries": [
-				"{@note Placeholder}"
-			]
-		},
-		{
-			"name": "Abyssal",
-			"source": "CaChRn",
-			"entries": [
-				"{@note Placeholder}"
-			]
-		},
-		{
-			"name": "Primordial",
-			"source": "CaChRn",
-			"entries": [
-				"{@note Placeholder}"
-			]
-		},
-		{
-			"name": "Draconic",
-			"source": "CaChRn",
-			"entries": [
-				"{@note Placeholder}"
-			]
-		},
-		{
-			"name": "Druidic",
-			"source": "CaChRn",
-			"entries": [
-				"{@note Placeholder}"
 			]
 		}
 	],

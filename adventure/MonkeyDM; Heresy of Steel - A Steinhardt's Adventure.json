@@ -27,11 +27,11 @@
 				"SGttEH"
 			]
 		},
-		"references": [
-			"SGttEH"
-		],
 		"internalCopies": [
 			"monsterFluff"
+		],
+		"references": [
+			"SGttEH"
 		],
 		"fonts": {
 			"radiantcross": "https://raw.githack.com/TheGiddyLimit/homebrew-img/main/font/SGttEH/radiantcross.otf"

@@ -17,14 +17,14 @@
 				"dateReleased": "2022-08-11"
 			}
 		],
+		"references": [
+			"UAModifyingClasses"
+		],
 		"optionalFeatureTypes": {
 			"MR:FT": "Martial Ranger: Favored Terrain",
 			"MR:BS": "Martial Ranger: Basic Snare",
 			"MR:AS": "Martial Ranger: Advanced Snare"
 		},
-		"references": [
-			"UAModifyingClasses"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1660992296,

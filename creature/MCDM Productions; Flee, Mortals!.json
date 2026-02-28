@@ -18,6 +18,12 @@
 				"color": "9B0000"
 			}
 		],
+		"references": [
+			"BST",
+			"KaW",
+			"SaF",
+			"TalPsi"
+		],
 		"optionalFeatureTypes": {
 			"OAF": "Optional Animal Feature",
 			"HCF": "Hag Coven Feature",
@@ -68,12 +74,6 @@
 				"color": "00adb3"
 			}
 		},
-		"references": [
-			"SaF",
-			"BST",
-			"KaW",
-			"TalPsi"
-		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1692310105,

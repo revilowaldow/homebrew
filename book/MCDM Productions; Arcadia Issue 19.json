@@ -30,13 +30,13 @@
 				"MM"
 			]
 		},
-		"references": [
-			"Ar8",
-			"ILL"
-		],
 		"internalCopies": [
 			"monster",
 			"monsterFluff"
+		],
+		"references": [
+			"Ar8",
+			"ILL"
 		],
 		"edition": "one",
 		"dateAdded": 1726660067,

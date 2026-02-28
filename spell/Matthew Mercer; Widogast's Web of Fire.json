@@ -66,6 +66,14 @@
 					]
 				}
 			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					}
+				]
+			},
 			"damageInflict": [
 				"fire"
 			],
@@ -75,15 +83,7 @@
 			"miscTags": [
 				"OBJ",
 				"SGT"
-			],
-			"classes": {
-				"fromClassList": [
-					{
-						"name": "Wizard",
-						"source": "PHB"
-					}
-				]
-			}
+			]
 		}
 	]
 }

@@ -23,8 +23,8 @@
 			}
 		],
 		"references": [
-			"SaF",
-			"KaW"
+			"KaW",
+			"SaF"
 		],
 		"edition": "classic",
 		"status": "ready",

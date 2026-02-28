@@ -26,12 +26,12 @@
 				"DMG"
 			]
 		},
-		"references": [
-			"GH"
-		],
 		"internalCopies": [
 			"monster",
 			"monsterFluff"
+		],
+		"references": [
+			"GH"
 		],
 		"edition": "classic",
 		"status": "ready",
@@ -381,14 +381,14 @@
 		},
 		{
 			"name": "Grudgel",
+			"source": "GHMG",
+			"page": 420,
 			"reprintedAs": [
 				{
 					"edition": "one",
 					"uid": "Grudgel|GrimHollowPG24"
 				}
 			],
-			"source": "GHMG",
-			"page": 420,
 			"size": [
 				"M"
 			],

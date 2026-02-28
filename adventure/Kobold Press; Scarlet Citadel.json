@@ -37,11 +37,11 @@
 			"itemFluff"
 		],
 		"references": [
-			"KPDM",
-			"DM07",
-			"DM05",
-			"ToB",
 			"CCodex",
+			"DM05",
+			"DM07",
+			"KPDM",
+			"ToB",
 			"W02DM"
 		],
 		"edition": "classic",

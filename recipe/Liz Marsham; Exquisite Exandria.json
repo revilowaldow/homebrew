@@ -20,11 +20,11 @@
 				"version": "unknown"
 			}
 		],
-		"references": [
-			"TalDoreiCampaignSettingReborn"
-		],
 		"internalCopies": [
 			"recipeFluff"
+		],
+		"references": [
+			"TalDoreiCampaignSettingReborn"
 		],
 		"edition": "classic",
 		"status": "ready",

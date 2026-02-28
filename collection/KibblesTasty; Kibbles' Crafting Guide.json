@@ -19,10 +19,10 @@
 			}
 		],
 		"references": [
-			"ktp",
-			"KibblesTasty:cc",
 			"KibbleInventor",
-			"KT:O"
+			"KibblesTasty:cc",
+			"KT:O",
+			"ktp"
 		],
 		"edition": "classic",
 		"status": "ready",
@@ -6938,6 +6938,32 @@
 			]
 		},
 		{
+			"name": "Explosive (*)",
+			"source": "KTKCG",
+			"page": 36,
+			"type": "EXP|DMG",
+			"rarity": "varies",
+			"range": "20",
+			"dmg1": "1d8",
+			"dmgType": "F",
+			"dmg2": "1d8",
+			"entries": [
+				"A bundled explosive alchemical preparation. It can be detonated by dealing 1 fire or lightning damage to it. As an action, a packet of this explosive can be accurately thrown 20 feet, but will not detonate on impact (usually). When it detonates, all creatures within 10 feet (for common) of the target point must make a Dexterity saving throw with a DC equal to the crafter's Alchemy DC. On failure, they take {@damage 1d8} fire + {@damage 1d8} thunder damage, or half as much on a success. Creatures in range of more than one explosive take damage only from the highest damage effect.",
+				{
+					"type": "statblock",
+					"tag": "table",
+					"source": "KTKCG",
+					"name": "Explosive Damage",
+					"page": 36
+				}
+			],
+			"items": [
+				"Common Explosive|KTKCG",
+				"Potent Explosive|KTKCG",
+				"Powerful Explosive|KTKCG"
+			]
+		},
+		{
 			"name": "Fresh Ingredient",
 			"source": "KTKCG",
 			"page": 55,
@@ -7176,32 +7202,6 @@
 				"7th-Level Spell Scroll|KTKCG",
 				"8th-Level Spell Scroll|KTKCG",
 				"9th-Level Spell Scroll|KTKCG"
-			]
-		},
-		{
-			"name": "Explosive (*)",
-			"source": "KTKCG",
-			"page": 36,
-			"type": "EXP|DMG",
-			"rarity": "varies",
-			"range": "20",
-			"dmg1": "1d8",
-			"dmgType": "F",
-			"dmg2": "1d8",
-			"entries": [
-				"A bundled explosive alchemical preparation. It can be detonated by dealing 1 fire or lightning damage to it. As an action, a packet of this explosive can be accurately thrown 20 feet, but will not detonate on impact (usually). When it detonates, all creatures within 10 feet (for common) of the target point must make a Dexterity saving throw with a DC equal to the crafter's Alchemy DC. On failure, they take {@damage 1d8} fire + {@damage 1d8} thunder damage, or half as much on a success. Creatures in range of more than one explosive take damage only from the highest damage effect.",
-				{
-					"type": "statblock",
-					"tag": "table",
-					"source": "KTKCG",
-					"name": "Explosive Damage",
-					"page": 36
-				}
-			],
-			"items": [
-				"Common Explosive|KTKCG",
-				"Potent Explosive|KTKCG",
-				"Powerful Explosive|KTKCG"
 			]
 		},
 		{
@@ -12443,6 +12443,38 @@
 				[
 					"{@item Legendary Essence|KTKCG}",
 					"53,250"
+				]
+			]
+		},
+		{
+			"name": "Explosive Damage",
+			"source": "KTKCG",
+			"page": 36,
+			"colLabels": [
+				"Name",
+				"Radius",
+				"Damage"
+			],
+			"colStyles": [
+				"text-center",
+				"text-center",
+				"text-center"
+			],
+			"rows": [
+				[
+					"Common",
+					"10 feet",
+					"{@damage 1d8} fire + {@damage 1d8} thunder."
+				],
+				[
+					"Potent",
+					"15 feet",
+					"{@damage 2d8} fire + {@damage 2d8} thunder."
+				],
+				[
+					"Powerful",
+					"20 feet",
+					"{@damage 4d8} fire + {@damage 4d8} thunder."
 				]
 			]
 		},
@@ -21402,38 +21434,6 @@
 					"{@dc 20}",
 					"Legendary",
 					"40,000 gp"
-				]
-			]
-		},
-		{
-			"name": "Explosive Damage",
-			"source": "KTKCG",
-			"page": 36,
-			"colLabels": [
-				"Name",
-				"Radius",
-				"Damage"
-			],
-			"colStyles": [
-				"text-center",
-				"text-center",
-				"text-center"
-			],
-			"rows": [
-				[
-					"Common",
-					"10 feet",
-					"{@damage 1d8} fire + {@damage 1d8} thunder."
-				],
-				[
-					"Potent",
-					"15 feet",
-					"{@damage 2d8} fire + {@damage 2d8} thunder."
-				],
-				[
-					"Powerful",
-					"20 feet",
-					"{@damage 4d8} fire + {@damage 4d8} thunder."
 				]
 			]
 		},

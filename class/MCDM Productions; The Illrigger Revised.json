@@ -21,13 +21,13 @@
 		"internalCopies": [
 			"itemFluff"
 		],
+		"references": [
+			"FleeMortals"
+		],
 		"optionalFeatureTypes": {
 			"ItdBoon": "Interdict Boon",
 			"IllMastery": "Combat Mastery"
 		},
-		"references": [
-			"FleeMortals"
-		],
 		"edition": "classic",
 		"dateAdded": 1732652987,
 		"dateLastModified": 1772043067,

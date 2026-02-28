@@ -31,8 +31,8 @@
 			"monsterFluff"
 		],
 		"references": [
-			"SaF",
-			"Ar1"
+			"Ar1",
+			"SaF"
 		],
 		"edition": "classic",
 		"status": "ready",

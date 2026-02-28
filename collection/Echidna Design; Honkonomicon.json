@@ -21,11 +21,11 @@
 				"dateReleased": "2023-04-01"
 			}
 		],
-		"references": [
-			"CircleoftheHonk"
-		],
 		"internalCopies": [
 			"monsterFluff"
+		],
+		"references": [
+			"CircleoftheHonk"
 		],
 		"optionalFeatureTypes": {
 			"FS:F-S": "Fighting Style; Fighter\u2014Squarkmaster"
@@ -1974,20 +1974,6 @@
 			]
 		},
 		{
-			"name": "Murderous Chaos",
-			"source": "Honkonomicon",
-			"page": 24,
-			"className": "Warlock",
-			"classSource": "PHB",
-			"subclassShortName": "Honking Chaos",
-			"subclassSource": "Honkonomicon",
-			"level": 10,
-			"header": 2,
-			"entries": [
-				"When you reduce a creature with a hit point maximum of 40 or greater to 0 hit points, you regain 1 expended chaos die. If you have all your chaos dice when you trigger this feature, you instead gain temporary hit points equal to your Warlock level + your Charisma modifier (minimum of 1)."
-			]
-		},
-		{
 			"name": "Soul of Chaos",
 			"source": "Honkonomicon",
 			"page": 24,
@@ -1999,6 +1985,20 @@
 			"header": 2,
 			"entries": [
 				"The chaotic magic in your veins grants you greater control over your environment. Whenever you roll a dice for any reason, you can spend two chaos dice to reroll it, though you must abide by the new result. If the new number is the same as your previous roll, you receive a chaotic backlash of energy as the world stabilizes itself from your meddling; roll a number of chaos dice equal to your Charisma modifier. For each die result of a 1, that chaos die can't be used until the next dawn. Once you use this feature, you can't do so again until you finish a long rest."
+			]
+		},
+		{
+			"name": "Murderous Chaos",
+			"source": "Honkonomicon",
+			"page": 24,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Honking Chaos",
+			"subclassSource": "Honkonomicon",
+			"level": 10,
+			"header": 2,
+			"entries": [
+				"When you reduce a creature with a hit point maximum of 40 or greater to 0 hit points, you regain 1 expended chaos die. If you have all your chaos dice when you trigger this feature, you instead gain temporary hit points equal to your Warlock level + your Charisma modifier (minimum of 1)."
 			]
 		},
 		{

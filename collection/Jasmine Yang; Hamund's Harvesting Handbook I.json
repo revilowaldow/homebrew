@@ -18,12 +18,12 @@
 				"dateReleased": "2019-05-26"
 			}
 		],
-		"optionalFeatureTypes": {
-			"CT": "Crafter Type"
-		},
 		"references": [
 			"UAArtificer"
 		],
+		"optionalFeatureTypes": {
+			"CT": "Crafter Type"
+		},
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1659988014,
