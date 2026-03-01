@@ -6,16 +6,16 @@
 				"abbreviation": "HHHVII",
 				"full": "Hamund's Harvesting Handbook: Volume II",
 				"authors": [
-					"Jasmine Yang",
-					"Drifters Games Workshop"
+					"Drifters Games Workshop",
+					"Jasmine Yang"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2019-08-25",
 				"version": "v1.0",
-				"color": "ffd6a1",
 				"url": "https://www.dmsguild.com/product/286771/Hamunds-Harvesting-Handbook-Volume-2",
-				"dateReleased": "2019-08-25"
+				"color": "ffd6a1"
 			}
 		],
 		"references": [

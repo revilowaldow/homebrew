@@ -6,19 +6,19 @@
 				"abbreviation": "ToB",
 				"full": "Tome of Beasts",
 				"authors": [
-					"Wolfgang Baur",
-					"Dan Dillon",
-					"Rodrigo Garcia Carmona",
 					"Chris Harris",
-					"Kobold Press"
+					"Dan Dillon",
+					"Kobold Press",
+					"Rodrigo Garcia Carmona",
+					"Wolfgang Baur"
 				],
-				"version": "1.0.1",
-				"url": "https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition/",
 				"convertedBy": [
 					"Anonymous",
 					"mrhorseshoe",
 					"Spappz"
 				],
+				"version": "1.0.1",
+				"url": "https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition/",
 				"color": "89181A",
 				"targetSchema": "1.3.4"
 			}

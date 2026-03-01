@@ -6,17 +6,17 @@
 				"abbreviation": "SGttEH",
 				"full": "Steinhardt's Guide to the Eldritch Hunt",
 				"authors": [
-					"MonkeyDM",
-					"Evan \"MonkeyDM\" Mascaro"
+					"Evan \"MonkeyDM\" Mascaro",
+					"MonkeyDM"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2023-11-17",
 				"version": "17/11/2023",
-				"color": "141220",
-				"colorNight": "bdc7c7",
 				"url": "https://www.monkeydm.com/1-steinhardt",
-				"dateReleased": "2023-11-17"
+				"color": "141220",
+				"colorNight": "bdc7c7"
 			}
 		],
 		"dependencies": {

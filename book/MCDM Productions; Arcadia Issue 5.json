@@ -6,19 +6,19 @@
 				"abbreviation": "Ar5",
 				"full": "Arcadia Issue 5",
 				"authors": [
+					"Carlos Cisco",
 					"James Introcaso",
 					"Leon Barillaro",
-					"Carlos Cisco",
 					"Sam Mannell"
 				],
 				"convertedBy": [
-					"Somebody",
-					"Lyra [he/him]"
+					"Lyra [he/him]",
+					"Somebody"
 				],
+				"dateReleased": "2021-06-23",
 				"version": "1.0",
 				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
-				"color": "22503d",
-				"dateReleased": "2021-06-23"
+				"color": "22503d"
 			}
 		],
 		"dependencies": {

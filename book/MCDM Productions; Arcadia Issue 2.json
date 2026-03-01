@@ -5,19 +5,19 @@
 				"json": "Ar2",
 				"abbreviation": "Ar2",
 				"full": "Arcadia Issue 2",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"authors": [
 					"James Introcaso",
+					"Joshua Mendenhall",
 					"Makenzie De Armas",
-					"Rich Lescouflair",
-					"Joshua Mendenhall"
+					"Rich Lescouflair"
 				],
 				"convertedBy": [
 					"Jenny",
 					"Lyra [he/him]"
 				],
-				"version": "1.0",
 				"dateReleased": "2021-02-17",
+				"version": "1.0",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "ff5e00"
 			}
 		],

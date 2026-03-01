@@ -6,19 +6,19 @@
 				"abbreviation": "HONK",
 				"full": "Honkonomicon",
 				"authors": [
+					"Alberto Ferrari",
 					"Echidna Design",
 					"Paolo Davolio",
-					"Vall Syrene",
 					"Sandro Degl'Innocenti",
-					"Alberto Ferrari"
+					"Vall Syrene"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2023-04-01",
 				"version": "v.1.0 01/04/2023",
-				"color": "c2932b",
 				"url": "https://www.dmsguild.com/product/432420/Honkonomicon",
-				"dateReleased": "2023-04-01"
+				"color": "c2932b"
 			}
 		],
 		"internalCopies": [

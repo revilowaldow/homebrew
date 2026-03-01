@@ -5,18 +5,18 @@
 				"json": "DontSayVecna",
 				"abbreviation": "DSV",
 				"full": "Don't Say Vecna!",
-				"url": "https://www.dndbeyond.com/posts/1264-free-level-20-d-d-adventure-face-off-against-vecna",
-				"dateReleased": "2022-06-09",
-				"color": "8f898e",
-				"version": "1",
 				"authors": [
-					"Wizards of the Coast",
+					"Michael Galvis",
 					"Mike Bernier",
-					"Michael Galvis"
+					"Wizards of the Coast"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
-				]
+				],
+				"dateReleased": "2022-06-09",
+				"version": "1",
+				"url": "https://www.dndbeyond.com/posts/1264-free-level-20-d-d-adventure-face-off-against-vecna",
+				"color": "8f898e"
 			}
 		],
 		"dependencies": {

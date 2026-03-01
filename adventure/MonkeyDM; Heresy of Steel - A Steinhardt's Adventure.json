@@ -6,16 +6,16 @@
 				"abbreviation": "SGttEH:HoS",
 				"full": "Steinhardt's Guide to the Eldritch Hunt: Heresy of Steel",
 				"authors": [
-					"MonkeyDM",
-					"Evan \"MonkeyDM\" Mascaro"
+					"Evan \"MonkeyDM\" Mascaro",
+					"MonkeyDM"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2024-07-04",
 				"version": "2024-11-06",
-				"color": "ea9237",
 				"url": "https://www.patreon.com/posts/heresy-of-steel-107452337",
-				"dateReleased": "2024-07-04"
+				"color": "ea9237"
 			}
 		],
 		"dependencies": {

@@ -5,7 +5,6 @@
 				"json": "Arcadia11",
 				"abbreviation": "Ar11",
 				"full": "Arcadia Issue 11",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"authors": [
 					"James Introcaso",
 					"Justice Ramin Arman",
@@ -16,8 +15,9 @@
 					"icexist",
 					"Lyra [he/him]"
 				],
-				"version": "12/2021",
 				"dateReleased": "2021-12-22",
+				"version": "12/2021",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "004663"
 			}
 		],

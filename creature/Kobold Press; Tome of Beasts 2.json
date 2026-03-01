@@ -5,24 +5,24 @@
 				"json": "ToB2",
 				"abbreviation": "ToB2",
 				"full": "Tome of Beasts 2",
-				"url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition-hardcover-pdf/",
 				"authors": [
-					"Wolfgang Baur",
+					"Brian Suskind",
 					"Celeste Conowitch",
 					"Darrin Drader",
 					"James Introcaso",
-					"Philip Larwood",
 					"Jeff Lee",
 					"Kelly Pawlik",
-					"Brian Suskind",
+					"Kobold Press",
 					"Mike Welham",
-					"Kobold Press"
+					"Philip Larwood",
+					"Wolfgang Baur"
 				],
 				"convertedBy": [
 					"Spappz"
 				],
-				"color": "89181A",
-				"version": "1.0.2"
+				"version": "1.0.2",
+				"url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition-hardcover-pdf/",
+				"color": "89181A"
 			}
 		],
 		"edition": "classic",

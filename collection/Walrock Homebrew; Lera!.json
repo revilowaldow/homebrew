@@ -9,13 +9,13 @@
 					"Walrock Homebrew"
 				],
 				"convertedBy": [
-					"Szefo09",
-					"Lyra [he/him]"
+					"Lyra [he/him]",
+					"Szefo09"
 				],
 				"version": "1.0.0",
 				"url": "https://www.dmsguild.com/product/286090/WH-Lera-A-mothlike-character-race-of-susurrant-scholars/",
-				"targetSchema": "1.1.0",
-				"color": "6F7293"
+				"color": "6F7293",
+				"targetSchema": "1.1.0"
 			}
 		],
 		"edition": "classic",

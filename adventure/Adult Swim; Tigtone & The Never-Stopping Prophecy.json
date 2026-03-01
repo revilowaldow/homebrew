@@ -7,17 +7,17 @@
 				"full": "Tigtone & the Never-Stopping Prophecy",
 				"authors": [
 					"Adult Swim",
-					"Jeremy Melloul",
 					"Andrew Koehler",
-					"Benjamin Martian"
+					"Benjamin Martian",
+					"Jeremy Melloul"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2020-11-03",
 				"version": "1",
-				"color": "2a4c03",
 				"url": "https://www.adultswim.com/misc/tigtonesquest/",
-				"dateReleased": "2020-11-03"
+				"color": "2a4c03"
 			}
 		],
 		"dependencies": {

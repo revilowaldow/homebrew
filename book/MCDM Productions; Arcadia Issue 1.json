@@ -5,20 +5,20 @@
 				"json": "Ar1",
 				"abbreviation": "Ar1",
 				"full": "Arcadia Issue 1",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"authors": [
-					"Willy Abeel",
-					"Leon Barillaro",
 					"Gabe Hicks",
-					"Sadie Lowry"
+					"Leon Barillaro",
+					"Sadie Lowry",
+					"Willy Abeel"
 				],
 				"convertedBy": [
 					"Jenny",
 					"Lyra [he/him]"
 				],
-				"color": "87748a",
+				"dateReleased": "2021-01-13",
 				"version": "1.01",
-				"dateReleased": "2021-01-13"
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"color": "87748a"
 			}
 		],
 		"dependencies": {

@@ -5,17 +5,17 @@
 				"json": "mme2-v2",
 				"abbreviation": "MME2",
 				"full": "Monster Manual Expanded II (v2)",
-				"url": "https://www.dmsguild.com/product/293658/Monster-Manual-Expanded-II-5E",
 				"authors": [
 					"Dragonix"
 				],
 				"convertedBy": [
-					"Spappz",
-					"Alex Mercer"
+					"Alex Mercer",
+					"Spappz"
 				],
-				"color": "BD7044",
+				"dateReleased": "2022-10-02",
 				"version": "2.02",
-				"dateReleased": "2022-10-02"
+				"url": "https://www.dmsguild.com/product/293658/Monster-Manual-Expanded-II-5E",
+				"color": "BD7044"
 			}
 		],
 		"dependencies": {

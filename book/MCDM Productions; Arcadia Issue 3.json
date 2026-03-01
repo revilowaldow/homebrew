@@ -5,20 +5,20 @@
 				"json": "Ar3",
 				"abbreviation": "Ar3",
 				"full": "Arcadia Issue 3",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"authors": [
-					"Justice Arman",
-					"Celeste Conowitch",
 					"Alison Huang",
-					"Sam Mannell",
-					"James Introcaso"
+					"Celeste Conowitch",
+					"James Introcaso",
+					"Justice Arman",
+					"Sam Mannell"
 				],
 				"convertedBy": [
 					"jimmypringles",
 					"Lyra [he/him]"
 				],
-				"version": "1.0",
 				"dateReleased": "2021-03-24",
+				"version": "1.0",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "0b231f"
 			}
 		],

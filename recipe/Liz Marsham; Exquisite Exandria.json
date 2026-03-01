@@ -6,18 +6,18 @@
 				"abbreviation": "ExEx",
 				"full": "Exquisite Exandria - The Official Cookbook of Critical Role",
 				"authors": [
-					"Liz Marsham",
+					"Amanda Yee",
 					"Jesse Szewczyk",
-					"Susan Vu",
-					"Amanda Yee"
+					"Liz Marsham",
+					"Susan Vu"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
-				"color": "05466b",
-				"url": "https://www.penguinrandomhouse.com/books/692487",
 				"dateReleased": "2023-08-29",
-				"version": "unknown"
+				"version": "unknown",
+				"url": "https://www.penguinrandomhouse.com/books/692487",
+				"color": "05466b"
 			}
 		],
 		"internalCopies": [

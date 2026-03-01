@@ -6,16 +6,16 @@
 				"abbreviation": "NMD:BN",
 				"full": "The Nomad: A Class for Planar Travelers - Modified",
 				"authors": [
-					"Vincent Girgenti (u/SubjectiveSloth)",
-					"Blubber Nibble#8845"
+					"Blubber Nibble#8845",
+					"Vincent Girgenti (u/SubjectiveSloth)"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2022-08-26",
 				"version": "2.1",
-				"color": "d0b5ef",
 				"url": "https://docs.google.com/document/d/1Ge7prcNKIkDkce1IwaLAcqRQrVQ1eech15202CHwLuo/edit",
-				"dateReleased": "2022-08-26"
+				"color": "d0b5ef"
 			},
 			{
 				"json": "OathOftheUnconquered2",
@@ -27,9 +27,9 @@
 				"convertedBy": [
 					"MrVauxs"
 				],
-				"url": "https://docs.google.com/document/d/1-2CAF_iBYW9bL_y-Ek5vewwx4G6U7qAydcKVn9-sm8s/edit#heading=h.mw0izismkiav",
+				"dateReleased": "2022-12-01",
 				"version": "1.0",
-				"dateReleased": "2022-12-01"
+				"url": "https://docs.google.com/document/d/1-2CAF_iBYW9bL_y-Ek5vewwx4G6U7qAydcKVn9-sm8s/edit#heading=h.mw0izismkiav"
 			}
 		],
 		"dependencies": {

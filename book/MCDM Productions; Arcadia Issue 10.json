@@ -5,20 +5,20 @@
 				"json": "Arcadia10",
 				"abbreviation": "Ar10",
 				"full": "Arcadia Issue 10",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"authors": [
-					"James Introcaso",
+					"Anthony Joyce",
 					"Celeste Conowitch",
-					"Scott Fitzgerald Gray",
-					"Anthony Joyce"
+					"James Introcaso",
+					"Scott Fitzgerald Gray"
 				],
 				"convertedBy": [
 					"ForeverAlwaysGM (Billiam94)",
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2021-11-24",
 				"version": "11/2021",
-				"color": "e1753a",
-				"dateReleased": "2021-11-24"
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
+				"color": "e1753a"
 			}
 		],
 		"dependencies": {

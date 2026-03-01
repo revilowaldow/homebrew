@@ -6,26 +6,26 @@
 				"abbreviation": "PKB",
 				"full": "Pathfinder: Kingmaker Bestiary (5e)",
 				"authors": [
-					"Paizo Inc.",
+					"Alex Riggs",
+					"Chris Perrin",
+					"Jeff Ibach",
+					"Jeff Lee",
 					"Jeremy Corff",
+					"Julian Neale",
+					"Matt Kimmel",
+					"Paizo Inc.",
 					"Robert J. Grady",
 					"Tim Hitchcock",
-					"Jeff Ibach",
-					"Victoria Jaczko",
-					"Matt Kimmel",
-					"Jeff Lee",
-					"Julian Neale",
-					"Chris Perrin",
 					"Tom Phillips",
-					"Alex Riggs"
+					"Victoria Jaczko"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2022-11-08",
 				"version": "1",
-				"color": "275125",
 				"url": "https://paizo.com/products/btq02e0o?Pathfinder-Kingmaker-Bestiary",
-				"dateReleased": "2022-11-08"
+				"color": "275125"
 			}
 		],
 		"dependencies": {

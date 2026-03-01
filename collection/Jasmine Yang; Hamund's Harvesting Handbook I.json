@@ -6,16 +6,16 @@
 				"abbreviation": "HHHVI",
 				"full": "Hamund's Harvesting Handbook: Volume I",
 				"authors": [
-					"Jasmine Yang",
-					"Drifters Games Workshop"
+					"Drifters Games Workshop",
+					"Jasmine Yang"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2019-05-26",
 				"version": "v1.02",
-				"color": "fec273",
 				"url": "https://www.dmsguild.com/product/276213/Hamunds-Harvesting-Handbook-A-Complete-Guide-to-Harvesting-and-Crafting-in-DD-5e",
-				"dateReleased": "2019-05-26"
+				"color": "fec273"
 			}
 		],
 		"references": [
