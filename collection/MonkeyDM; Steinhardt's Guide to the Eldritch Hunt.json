@@ -28979,7 +28979,7 @@
 						"The abductor casts {@spell darkness} at 3rd-level, without material components, targeting its candle. While touching the candle, a creature can see through the darkness created by the spell."
 					],
 					"will": [
-						"{@spell darkness#3}"
+						"{@spell darkness}"
 					],
 					"displayAs": "action",
 					"hidden": [
@@ -31622,19 +31622,19 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell bludgeoning horror|SGttEH#5}{@font ♰|radiantcross} (5th level)",
-							"{@spell color spray#5} (5th level)",
-							"{@spell counterspell#5} (5th level)",
+							"{@spell bludgeoning horror|SGttEH}{@font ♰|radiantcross} (5th level)",
+							"{@spell color spray} (5th level)",
+							"{@spell counterspell} (5th level)",
 							"{@spell dominate person}",
 							"{@spell haste}",
 							"{@spell mass healing word}",
-							"{@spell sleep#5} (5th level)"
+							"{@spell sleep} (5th level)"
 						],
 						"1e": [
 							"{@spell hold monster}",
 							"{@spell hypnotic pattern}",
 							"{@spell mass cure wounds}",
-							"{@spell modify memory#9} (9th level)",
+							"{@spell modify memory} (9th level)",
 							"{@spell plane shift}",
 							"{@spell wall of force}"
 						]
@@ -35955,7 +35955,7 @@
 						"Orr's innate spellcasting ability is Charisma (spell save {@dc 20}, {@hit 12} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell counterspell#5}"
+						"{@spell counterspell}"
 					],
 					"daily": {
 						"3e": [
@@ -36272,7 +36272,7 @@
 						"Orr's innate spellcasting ability is Charisma (spell save {@dc 22}, {@hit 14} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell counterspell#5}"
+						"{@spell counterspell}"
 					],
 					"daily": {
 						"3e": [
