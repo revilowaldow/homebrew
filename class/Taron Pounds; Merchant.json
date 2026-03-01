@@ -3092,7 +3092,7 @@
 				"Additionally, you learn {@language Thieves' Cant|PHB} as detailed in the {@classFeature Thieves' Cant|Rogue|PHB|1|PHB|rogue class (Player's Handbook p. 96).}",
 				{
 					"type": "refSubclassFeature",
-					"classFeature": "Thieves' Cant|Merchant|TPM|Swindler|TPM|3|TPM"
+					"subclassFeature": "Thieves' Cant|Merchant|TPM|Swindler|TPM|3|TPM"
 				}
 			]
 		},
