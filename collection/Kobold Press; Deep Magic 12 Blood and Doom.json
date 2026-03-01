@@ -13,11 +13,14 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2017-06-28",
 				"version": "@ 2017",
-				"color": "760f0b",
 				"url": "https://koboldpress.com/kpstore/product/deep-magic-blood-doom-pdf-5th-edition/",
-				"dateReleased": "2017-06-28"
+				"color": "760f0b"
 			}
+		],
+		"references": [
+			"ToB"
 		],
 		"edition": "classic",
 		"status": "ready",

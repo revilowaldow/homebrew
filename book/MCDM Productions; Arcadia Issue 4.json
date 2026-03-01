@@ -5,19 +5,19 @@
 				"json": "Ar4",
 				"abbreviation": "Ar4",
 				"full": "Arcadia Issue 4",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"authors": [
-					"James Introcaso",
-					"Willy Abeel",
 					"Cat Evans",
-					"Derek Ruiz"
+					"Derek Ruiz",
+					"James Introcaso",
+					"Willy Abeel"
 				],
 				"convertedBy": [
-					"Somebody",
-					"Lyra [he/him]"
+					"Lyra [he/him]",
+					"Somebody"
 				],
-				"version": "1.0",
 				"dateReleased": "2021-05-28",
+				"version": "1.0",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "9b93d3"
 			}
 		],
@@ -29,6 +29,10 @@
 		"internalCopies": [
 			"monster",
 			"monsterFluff"
+		],
+		"references": [
+			"Ar1",
+			"SaF"
 		],
 		"edition": "classic",
 		"status": "ready",
@@ -3196,7 +3200,9 @@
 						},
 						{
 							"type": "quote",
-							"entries": [],
+							"entries": [
+								""
+							],
 							"by": "James Introcaso"
 						}
 					],

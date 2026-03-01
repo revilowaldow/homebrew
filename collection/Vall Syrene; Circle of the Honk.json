@@ -11,10 +11,10 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2020-08-24",
 				"version": "Apr 25, 2023",
-				"color": "fefefe",
 				"url": "https://www.dmsguild.com/en/product/325509/circle-of-the-honk",
-				"dateReleased": "2020-08-24"
+				"color": "fefefe"
 			}
 		],
 		"edition": "classic",
@@ -2557,7 +2557,7 @@
 							"name": "Circle of the Honk Spells",
 							"page": 3,
 							"entries": [
-								"The spells listed below are listed by spell level. While these spells are intended for use only with the {@class Druid|PHB||Circle of the Honk|CircleoftheHonk} subclass, they can also be available to conventional druids or other classes noted in the spell properties, at the DM's discretion.",
+								"The spells listed below are listed by spell level. While these spells are intended for use only with the {@class Druid|PHB|Circle of the Honk|Circle of the Honk|CircleoftheHonk} subclass, they can also be available to conventional druids or other classes noted in the spell properties, at the DM's discretion.",
 								{
 									"type": "statblock",
 									"tag": "spell",

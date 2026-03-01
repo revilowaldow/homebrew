@@ -11,11 +11,11 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2021-05-10",
 				"version": "v5.024",
-				"color": "30272b",
-				"colorNight": "f9b9bb",
 				"url": "https://www.dmsguild.com/en/product/357228/honkdra",
-				"dateReleased": "2021-05-10"
+				"color": "30272b",
+				"colorNight": "f9b9bb"
 			}
 		],
 		"internalCopies": [
@@ -226,6 +226,10 @@
 				"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/Honkdra/Honkdra.webp"
 			},
 			"tokenCredit": "MZ4250",
+			"tokenHref3d": {
+				"type": "external",
+				"url": "https://raw.githubusercontent.com/theripper93/canvas3dtokencompendium/master/miniatures/_Colorized/Animated/MZ4250%20-%20Goose%20Hydra%20Animated.glb"
+			},
 			"altArt": [
 				{
 					"name": "Unpainted",
@@ -277,11 +281,7 @@
 				"constitution"
 			],
 			"hasToken": true,
-			"hasFluffImages": true,
-			"tokenHref3d": {
-				"type": "external",
-				"url": "https://raw.githubusercontent.com/theripper93/canvas3dtokencompendium/master/miniatures/_Colorized/Animated/MZ4250%20-%20Goose%20Hydra%20Animated.glb"
-			}
+			"hasFluffImages": true
 		},
 		{
 			"name": "Honkdra (CR 21)",
@@ -481,6 +481,10 @@
 				"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/Honkdra/Honkdra.webp"
 			},
 			"tokenCredit": "MZ4250",
+			"tokenHref3d": {
+				"type": "external",
+				"url": "https://raw.githubusercontent.com/theripper93/canvas3dtokencompendium/master/miniatures/_Colorized/Animated/MZ4250%20-%20Goose%20Hydra%20Animated.glb"
+			},
 			"altArt": [
 				{
 					"name": "Unpainted",
@@ -534,11 +538,7 @@
 				"constitution"
 			],
 			"hasToken": true,
-			"hasFluffImages": true,
-			"tokenHref3d": {
-				"type": "external",
-				"url": "https://raw.githubusercontent.com/theripper93/canvas3dtokencompendium/master/miniatures/_Colorized/Animated/MZ4250%20-%20Goose%20Hydra%20Animated.glb"
-			}
+			"hasFluffImages": true
 		},
 		{
 			"name": "Honkdra (CR 30)",
@@ -738,6 +738,10 @@
 				"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/Honkdra/Honkdra.webp"
 			},
 			"tokenCredit": "MZ4250",
+			"tokenHref3d": {
+				"type": "external",
+				"url": "https://raw.githubusercontent.com/theripper93/canvas3dtokencompendium/master/miniatures/_Colorized/Animated/MZ4250%20-%20Goose%20Hydra%20Animated.glb"
+			},
 			"altArt": [
 				{
 					"name": "Unpainted",
@@ -791,11 +795,7 @@
 				"constitution"
 			],
 			"hasToken": true,
-			"hasFluffImages": true,
-			"tokenHref3d": {
-				"type": "external",
-				"url": "https://raw.githubusercontent.com/theripper93/canvas3dtokencompendium/master/miniatures/_Colorized/Animated/MZ4250%20-%20Goose%20Hydra%20Animated.glb"
-			}
+			"hasFluffImages": true
 		}
 	],
 	"monsterFluff": [

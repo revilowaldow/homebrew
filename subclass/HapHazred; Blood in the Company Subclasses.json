@@ -11,11 +11,14 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2024-03-06",
 				"version": "2024-03-05",
-				"color": "8f7411",
 				"url": "https://homebrewery.naturalcrit.com/share/3rqCDY-YHrY2",
-				"dateReleased": "2024-03-06"
+				"color": "8f7411"
 			}
+		],
+		"references": [
+			"BloodInTheCompany"
 		],
 		"edition": "classic",
 		"status": "ready",

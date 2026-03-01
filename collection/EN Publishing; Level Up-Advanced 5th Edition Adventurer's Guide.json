@@ -11,10 +11,10 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2022-03-17",
 				"version": "1",
-				"color": "8f5f4f",
 				"url": "https://enpublishingrpg.com/products/level-up-adventurers-guide-a5e",
-				"dateReleased": "2022-03-17"
+				"color": "8f5f4f"
 			}
 		],
 		"optionalFeatureTypes": {
@@ -3470,7 +3470,7 @@
 					"Force a creature to attack you."
 				],
 				[
-					"{@optfeature Guarded Draw|LUA5E:AG} {@homebrew {@note This feature does not appear in the text.}}",
+					"{@i Guarded Draw} {@homebrew {@note This feature does not appear in the text.}}",
 					"Use a ranged weapon without disadvantage when adjacent to an enemy and make ranged opportunity attacks against those who move away from you."
 				],
 				[

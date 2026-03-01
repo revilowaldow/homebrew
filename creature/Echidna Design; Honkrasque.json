@@ -12,11 +12,14 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2023-03-25",
 				"version": "Aug 07, 2025",
-				"color": "c9a264",
 				"url": "https://www.dmsguild.com/en/product/431590/honkrasque",
-				"dateReleased": "2023-03-25"
+				"color": "c9a264"
 			}
+		],
+		"references": [
+			"Honkonomicon"
 		],
 		"edition": "classic",
 		"status": "ready",

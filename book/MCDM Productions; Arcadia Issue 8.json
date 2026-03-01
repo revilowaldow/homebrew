@@ -5,22 +5,26 @@
 				"json": "Ar8",
 				"abbreviation": "Ar8",
 				"full": "Arcadia Issue 8",
-				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"authors": [
+					"Bianca Bickford",
 					"James Intracaso",
-					"Matt Colville",
 					"Jessica Marcrum",
-					"V.J. Harris",
-					"Bianca Bickford"
+					"Matt Colville",
+					"V.J. Harris"
 				],
 				"convertedBy": [
 					"ForeverAlwaysGM (Billiam94)",
 					"Lyra [he/him]"
 				],
-				"version": "10/2021",
 				"dateReleased": "2021-09-29",
+				"version": "10/2021",
+				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
 				"color": "2acc74"
 			}
+		],
+		"references": [
+			"KaW",
+			"SaF"
 		],
 		"edition": "classic",
 		"status": "ready",
@@ -3454,7 +3458,9 @@
 						},
 						{
 							"type": "quote",
-							"entries": [],
+							"entries": [
+								""
+							],
 							"by": "James Introcaso, Managing Editor"
 						}
 					],

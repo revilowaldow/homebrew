@@ -12,10 +12,10 @@
 					"Lyra [he/him]",
 					"Spappz"
 				],
+				"dateReleased": "2020-08-30",
 				"version": "v1.0",
-				"color": "4d4d4d",
 				"url": "https://koboldpress.com/kpstore/product/warlock-lair-50-light-of-memoria/",
-				"dateReleased": "2020-08-30"
+				"color": "4d4d4d"
 			}
 		],
 		"dependencies": {
@@ -23,6 +23,11 @@
 				"MM"
 			]
 		},
+		"references": [
+			"KPSC",
+			"ToB",
+			"WL50"
+		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1706388363,

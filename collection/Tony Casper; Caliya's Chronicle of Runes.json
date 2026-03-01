@@ -6,19 +6,19 @@
 				"abbreviation": "CaChRn",
 				"full": "Caliya's Chronicle of Runes",
 				"authors": [
-					"Tony Casper",
-					"Ryan Rose",
 					"Ben Stauff",
 					"John Webb",
-					"Rob Gunningham"
+					"Rob Gunningham",
+					"Ryan Rose",
+					"Tony Casper"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2025-04-23",
 				"version": "Alpha Playtest v0.13",
-				"color": "592d91",
 				"url": "https://www.kickstarter.com/projects/spectrecreations/chronicle-of-runes-5e",
-				"dateReleased": "2025-04-23"
+				"color": "592d91"
 			}
 		],
 		"internalCopies": [
@@ -2508,6 +2508,41 @@
 		}
 	],
 	"language": [
+		{
+			"name": "Abyssal",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Celestial",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Draconic",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Druidic",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
+		{
+			"name": "Primordial",
+			"source": "CaChRn",
+			"entries": [
+				"{@note Placeholder}"
+			]
+		},
 		{
 			"name": "Serpentine",
 			"source": "CaChRn",

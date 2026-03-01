@@ -12,8 +12,8 @@
 					"Lyra [he/him]"
 				],
 				"version": "2021-04-21T10:29:44.877Z",
-				"color": "8c7dc6",
-				"url": "https://homebrewery.naturalcrit.com/share/gAI9mMSMa0vg"
+				"url": "https://homebrewery.naturalcrit.com/share/gAI9mMSMa0vg",
+				"color": "8c7dc6"
 			},
 			{
 				"json": "ASRT",
@@ -26,8 +26,8 @@
 					"Lyra [he/him]"
 				],
 				"version": "1",
-				"color": "7c2607",
-				"url": "https://github.com/TheGiddyLimit/homebrew"
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"color": "7c2607"
 			}
 		],
 		"dependencies": {

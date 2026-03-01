@@ -4,13 +4,13 @@
 			{
 				"json": "GiddyBackground",
 				"abbreviation": "Brew",
-				"color": "ff00ff",
 				"full": "Sample",
 				"authors": [
 					"Giddy"
 				],
 				"version": "1.0.0",
-				"url": "https://github.com/TheGiddyLimit/homebrew"
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"color": "ff00ff"
 			}
 		],
 		"edition": "classic",

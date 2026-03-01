@@ -6,17 +6,20 @@
 				"abbreviation": "SGttEH:AME",
 				"full": "Steinhardt's Guide to the Eldritch Hunt: Artificer Mortis Engineer",
 				"authors": [
-					"MonkeyDM",
-					"Evan \"MonkeyDM\" Mascaro"
+					"Evan \"MonkeyDM\" Mascaro",
+					"MonkeyDM"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2024-12-01",
 				"version": "2024-12-01",
-				"color": "292f3c",
 				"url": "https://www.patreon.com/posts/artificer-mortis-117104352",
-				"dateReleased": "2024-12-01"
+				"color": "292f3c"
 			}
+		],
+		"references": [
+			"SGttEH"
 		],
 		"fonts": {
 			"radiantcross": "https://raw.githack.com/TheGiddyLimit/homebrew-img/main/font/SGttEH/radiantcross.otf"

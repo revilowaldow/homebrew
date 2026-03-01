@@ -11,23 +11,23 @@
 				"convertedBy": [
 					"Giddy"
 				],
-				"version": "Revised 1.0",
-				"partnered": true,
-				"url": "https://marketplace.dndbeyond.com/category/DB0000155",
 				"dateReleased": "2023-12-05",
+				"version": "Revised 1.0",
+				"url": "https://marketplace.dndbeyond.com/category/DB0000155",
+				"partnered": true,
 				"color": "933a4c"
 			}
 		],
 		"internalCopies": [
 			"itemFluff"
 		],
+		"references": [
+			"FleeMortals"
+		],
 		"optionalFeatureTypes": {
 			"ItdBoon": "Interdict Boon",
 			"IllMastery": "Combat Mastery"
 		},
-		"references": [
-			"FleeMortals"
-		],
 		"edition": "classic",
 		"dateAdded": 1732652987,
 		"dateLastModified": 1772043067,

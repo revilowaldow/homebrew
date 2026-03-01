@@ -11,12 +11,15 @@
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2021-10-08",
 				"version": "1.1",
-				"color": "CA5707",
 				"url": "https://www.gmbinder.com/share/-MjAx7CqmUwg0b1wu5Jw",
-				"targetSchema": "1.0.1",
-				"dateReleased": "2021-10-08"
+				"color": "CA5707",
+				"targetSchema": "1.0.1"
 			}
+		],
+		"references": [
+			"KibblesTasty:CC"
 		],
 		"edition": "classic",
 		"status": "ready",

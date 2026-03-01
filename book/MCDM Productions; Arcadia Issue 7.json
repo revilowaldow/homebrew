@@ -6,17 +6,17 @@
 				"abbreviation": "Ar7",
 				"full": "Arcadia Issue 7",
 				"authors": [
-					"Sharang Biswas",
 					"Hannah Rose",
-					"Sara Thompson"
+					"Sara Thompson",
+					"Sharang Biswas"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2021-08-01",
 				"version": "1.0",
-				"color": "476748",
 				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
-				"dateReleased": "2021-08-01"
+				"color": "476748"
 			}
 		],
 		"dependencies": {
@@ -27,6 +27,9 @@
 				"MM"
 			]
 		},
+		"references": [
+			"SaF"
+		],
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1678274581,
@@ -2079,7 +2082,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell acid arrow}",
+								"{@spell Melf's Acid Arrow|PHB|acid arrow}",
 								"{@spell gentle repose}"
 							]
 						},
@@ -3308,7 +3311,9 @@
 						},
 						{
 							"type": "quote",
-							"entries": [],
+							"entries": [
+								""
+							],
 							"by": "James Introcaso",
 							"from": "Managing Editor"
 						},
@@ -3737,7 +3742,7 @@
 																		"2": {
 																			"slots": 3,
 																			"spells": [
-																				"{@spell acid arrow}",
+																				"{@spell Melf's Acid Arrow|PHB|acid arrow}",
 																				"{@spell gentle repose}"
 																			]
 																		},

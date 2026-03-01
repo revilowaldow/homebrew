@@ -6,18 +6,18 @@
 				"abbreviation": "Ar20",
 				"full": "Arcadia Issue 20",
 				"authors": [
-					"The GM Tim",
+					"Hannah Rose",
 					"Hook & Chance",
 					"Sam Mannell",
-					"Hannah Rose"
+					"The GM Tim"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
 				],
+				"dateReleased": "2022-09-01",
 				"version": "1.0",
-				"color": "877c41",
 				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-bundle-issues-19-24",
-				"dateReleased": "2022-09-01"
+				"color": "877c41"
 			}
 		],
 		"dependencies": {
@@ -27,6 +27,12 @@
 		},
 		"internalCopies": [
 			"monster"
+		],
+		"references": [
+			"Ar18",
+			"KaW",
+			"SaF",
+			"TalDoreiCampaignSettingReborn"
 		],
 		"edition": "classic",
 		"status": "ready",
@@ -16105,7 +16111,7 @@
 											"width": 270,
 											"height": 276
 										},
-										"{@b Hannah Rose} is a game designer, editor, and professional nerd\u2014 and, as of this summer, the new managing editor of {@i ARCADIA}! Previous credits include {@book Tal'Dorei Campaign Setting Reborn|TDCSR}, {@adventure Critical Role: Call of the Netherdeep|CRCotN}, and {@adventure Journeys Through the Radiant Citadel|JttRC}. She is assisted\u2014or hindered, depending on the day\u2014by two feline familiars. You can find her talking about games, cats, and more on Twitter at {@link @wildrosemage|https://twitter.com/wildrosemage}."
+										"{@b Hannah Rose} is a game designer, editor, and professional nerd\u2014 and, as of this summer, the new managing editor of {@i ARCADIA}! Previous credits include {@book Tal'Dorei Campaign Setting Reborn|TalDoreiCampaignSettingReborn}, {@adventure Critical Role: Call of the Netherdeep|CRCotN}, and {@adventure Journeys Through the Radiant Citadel|JttRC}. She is assisted\u2014or hindered, depending on the day\u2014by two feline familiars. You can find her talking about games, cats, and more on Twitter at {@link @wildrosemage|https://twitter.com/wildrosemage}."
 									]
 								},
 								{

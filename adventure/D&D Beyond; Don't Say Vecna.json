@@ -5,18 +5,18 @@
 				"json": "DontSayVecna",
 				"abbreviation": "DSV",
 				"full": "Don't Say Vecna!",
-				"url": "https://www.dndbeyond.com/posts/1264-free-level-20-d-d-adventure-face-off-against-vecna",
-				"dateReleased": "2022-06-09",
-				"color": "8f898e",
-				"version": "1",
 				"authors": [
-					"Wizards of the Coast",
+					"Michael Galvis",
 					"Mike Bernier",
-					"Michael Galvis"
+					"Wizards of the Coast"
 				],
 				"convertedBy": [
 					"Lyra [he/him]"
-				]
+				],
+				"dateReleased": "2022-06-09",
+				"version": "1",
+				"url": "https://www.dndbeyond.com/posts/1264-free-level-20-d-d-adventure-face-off-against-vecna",
+				"color": "8f898e"
 			}
 		],
 		"dependencies": {
@@ -118,7 +118,7 @@
 							"type": "item",
 							"name": "Drain Life",
 							"entries": [
-								"Vecna casts {@spell enervation} at 7th level. Vecna doesn't need to {@condition concentration|PHB|concentrate} on the spell and the spell ends on initiative count 20 of the next round."
+								"Vecna casts {@spell enervation|XGE} at 7th level. Vecna doesn't need to {@condition concentration|PHB|concentrate} on the spell and the spell ends on initiative count 20 of the next round."
 							]
 						},
 						{
@@ -517,7 +517,7 @@
 											],
 											"id": "01c"
 										},
-										"Vecna has cursed the books in this area as some contain information on him. If a creature starts reading, they must succeed on a {@dc 18} Wisdom saving throw or suffer the effects of the {@spell geas} spell. The magical command of this effect is to do nothing but sit and read. If the command is not adhered to, the creature takes {@spell 5d10} psychic damage, becomes {@condition incapacitated}, and praises Vecna. This effect ends if the creature takes any damage.",
+										"Vecna has cursed the books in this area as some contain information on him. If a creature starts reading, they must succeed on a {@dc 18} Wisdom saving throw or suffer the effects of the {@spell geas} spell. The magical command of this effect is to do nothing but sit and read. If the command is not adhered to, the creature takes {@damage 5d10} psychic damage, becomes {@condition incapacitated}, and praises Vecna. This effect ends if the creature takes any damage.",
 										{
 											"type": "entries",
 											"name": "Hidden Secrets",

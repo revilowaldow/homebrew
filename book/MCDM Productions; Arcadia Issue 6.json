@@ -6,19 +6,19 @@
 				"abbreviation": "Ar6",
 				"full": "Arcadia Issue 6",
 				"authors": [
-					"James Introcaso",
-					"H.H. Carlan",
 					"Gabe Hicks",
+					"H.H. Carlan",
+					"James Introcaso",
 					"Michael E. Shea"
 				],
 				"convertedBy": [
-					"Somebody",
-					"Lyra [he/him]"
+					"Lyra [he/him]",
+					"Somebody"
 				],
+				"dateReleased": "2021-07-28",
 				"version": "1.0",
 				"url": "https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30",
-				"color": "24315b",
-				"dateReleased": "2021-07-28"
+				"color": "24315b"
 			}
 		],
 		"dependencies": {
@@ -4310,7 +4310,9 @@
 						},
 						{
 							"type": "quote",
-							"entries": [],
+							"entries": [
+								""
+							],
 							"by": "James Introcaso",
 							"from": "Managing Editor"
 						}

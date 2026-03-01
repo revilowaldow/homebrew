@@ -6,18 +6,18 @@
 				"abbreviation": "TLotRW",
 				"full": "Thay Land of the Red Wizards",
 				"authors": [
-					"Ed Greenwood",
+					"Alan Patrick",
 					"Alex Kammer",
-					"Alan Patrick"
+					"Ed Greenwood"
 				],
 				"convertedBy": [
-					"Lyra [he/him]",
-					"Anonymous"
+					"Anonymous",
+					"Lyra [he/him]"
 				],
+				"dateReleased": "2022-02-14",
 				"version": "February 14, 2022",
-				"color": "6e2d26",
 				"url": "https://www.dmsguild.com/product/386190/Thay-Land-Of-The-Red-Wizards",
-				"dateReleased": "2022-02-14"
+				"color": "6e2d26"
 			}
 		],
 		"dependencies": {
@@ -51,7 +51,7 @@
 						],
 						"5": [
 							"augury",
-							"Nystul's magic auras"
+							"Nystul's Magic Aura"
 						],
 						"9": [
 							"enemies abound|XGE",
@@ -72,7 +72,7 @@
 				"bane",
 				"heroism",
 				"augury",
-				"Nystul's magic aura",
+				"Nystul's Magic Aura",
 				"enemies abound|XGE",
 				"glyph of warding",
 				"compulsion",
@@ -1077,8 +1077,7 @@
 			"page": 134,
 			"type": "$G|DMG",
 			"rarity": "none",
-			"value": 5000,
-			"entries": []
+			"value": 5000
 		},
 		{
 			"name": "Skaerath",
@@ -3440,7 +3439,7 @@
 				],
 				[
 					"5th",
-					"{@spell augury}, {@spell Nystul's magic aura}"
+					"{@spell augury}, {@spell Nystul's Magic Aura}"
 				],
 				[
 					"9th",
